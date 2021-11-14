@@ -11,6 +11,9 @@
         android:theme="@style/Theme.MessManagement">
         <activity
             android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.homepage.SplashActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

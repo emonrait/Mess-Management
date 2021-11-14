@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- <dimen name="design_bottom_navigation_height" tools:override="true">52dp</dimen>-->
+    <dimen name="design_bottom_navigation_text_size" tools:override="true">15sp</dimen>
+    <dimen name="design_bottom_navigation_active_text_size" tools:override="true">15sp</dimen>
+    <dimen name="design_bottom_navigation_margin" tools:override="true">15dp</dimen><!--
+       <dimen name="bottom_navigation_icon_size_base" tools:override="true">35dp</dimen>-->
+    <dimen name="design_bottom_navigation_height" tools:override="true">65dp</dimen>
+    <dimen name="margin_2">2dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_15">15dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_25">25dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
+    <dimen name="margin_50">50dp</dimen>
+    <dimen name="margin_minus_base">-25dp</dimen>
+    <dimen name="margin_minus_10">-10dp</dimen>
+    <dimen name="margin_80">80dp</dimen>
+    <dimen name="margin_60">60dp</dimen>
+    <dimen name="margin_120">120dp</dimen>
+
+    <dimen name="padding_2">2dp</dimen>
+    <dimen name="padding_5">5dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_15">15dp</dimen>
+    <dimen name="padding_20">20dp</dimen>
+    <dimen name="padding_25">25dp</dimen>
+    <dimen name="padding_80">80dp</dimen>
+
+    <!--row width-->
+    <dimen name="row_width_30">30dp</dimen>
+    <dimen name="row_width_40">40dp</dimen>
+    <dimen name="row_width_50">50dp</dimen>
+    <dimen name="row_width_60">60dp</dimen>
+    <dimen name="row_width_70">70dp</dimen>
+    <dimen name="row_width_80">80dp</dimen>
+    <dimen name="row_width_90">90dp</dimen>
+    <dimen name="row_width_100">1000dp</dimen>
+    <dimen name="row_width_120">120dp</dimen>
+    <dimen name="row_width_130">130dp</dimen>
+    <dimen name="row_width_140">140dp</dimen>
+    <dimen name="row_width_150">150dp</dimen>
+
+    <dimen name="header_login_image_height_base">160dp</dimen>
+    <dimen name="header_login_image_marign_top_base">20dp</dimen>
+    <dimen name="login_start_margin_base">20dp</dimen>
+    <dimen name="login_start_margin_7">25dp</dimen>
+    <dimen name="login_start_margin_10">30dp</dimen>
+    <dimen name="login_end_margin_base">20dp</dimen>
+    <dimen name="login_end_margin_7">25dp</dimen>
+    <dimen name="login_end_margin_10">30dp</dimen>
+    <dimen name="login_card_view_margin_top_base">30dp</dimen>
+    <dimen name="login_card_view_input_margibn_top_base">30dp</dimen>
+
+    <dimen name="header_quick_rechch_height_base">200dp</dimen>
+    <dimen name="spash_screen_icon_image_height_base">180dp</dimen>
+    <dimen name="header_quick_rechch_image_height_base">120dp</dimen>
+    <dimen name="header_quick_rechch_image_height_login_base">100dp</dimen>
+    <dimen name="header_quick_rechch_image_height_login_7">120dp</dimen>
+    <dimen name="header_quick_rechch_image_height_login_10">200dp</dimen>
+
+    <dimen name="login_button_height_base">92dp</dimen>
+    <dimen name="login_button_height_7">110dp</dimen>
+    <dimen name="login_button_height_10">120dp</dimen>
+    <dimen name="login_edit_text_height_base">50dp</dimen>
+
+    <dimen name="login_button_imageview_width_base">65dp</dimen>
+    <dimen name="login_button_imageview_height_base">65dp</dimen>
+    <dimen name="login_button_imageview_height_7">70dp</dimen>
+    <dimen name="login_button_imageview_height_10">75dp</dimen>
+
+
+    <dimen name="tap_for_balance_textsizbase">16sp</dimen>
+    <dimen name="tap_for_balance_textsiz_7">20sp</dimen>
+    <dimen name="tap_for_balance_textsiz_10">25sp</dimen>
+
+
+    <dimen name="tap_for_bal_icon_size_base">45dp</dimen>
+    <dimen name="tap_for_bal_icon_size_7">50dp</dimen>
+    <dimen name="tap_for_bal_icon_size_10">55dp</dimen>
+
+    <dimen name="textsize_base">14sp</dimen>
+    <dimen name="textsize_360">14sp</dimen>
+    <dimen name="textsize_7">18sp</dimen>
+    <dimen name="textsize_10">25sp</dimen>
+    <dimen name="textsize_12">13sp</dimen>
+    <dimen name="textsize_normal">12sp</dimen>
+
+    <dimen name="account_balance_label_textsize_base">12sp</dimen>
+    <dimen name="account_balance_label_textsize_360">12sp</dimen>
+    <dimen name="account_balance_label_textsize_7">16sp</dimen>
+    <dimen name="account_balance_label_textsize_10">20sp</dimen>
+
+    <dimen name="button_textsize_base">18sp</dimen>
+    <dimen name="button_login_textsize_base">20sp</dimen>
+    <dimen name="button_login_textsize_7">22sp</dimen>
+    <dimen name="button_login_textsize_10">30sp</dimen>
+
+    <dimen name="title_textsize_base">20sp</dimen>
+    <dimen name="title_textsize_7">24sp</dimen>
+    <dimen name="title_textsize_10">28sp</dimen>
+
+    <dimen name="sub_title_textsize_base">18sp</dimen>
+    <dimen name="sub_title_textsize_7">22sp</dimen>
+    <dimen name="sub_title_textsize_10">25sp</dimen>
+
+    <dimen name="welcome_gridview_padding_base">2dp</dimen>
+    <dimen name="welcome_gridview_padding_7">6dp</dimen>
+    <dimen name="welcome_gridview_padding_10">10dp</dimen>
+
+    <dimen name="welcome_gridview_vs_base">12dp</dimen>
+    <dimen name="welcome_gridview_vs_7">16dp</dimen>
+    <dimen name="welcome_gridview_vs_10">20dp</dimen>
+    <dimen name="welcome_gridview_hs_base">12dp</dimen>
+    <dimen name="welcome_gridview_hs_7">16dp</dimen>
+    <dimen name="welcome_gridview_hs_10">20dp</dimen>
+
+    <dimen name="fudtransfer_menu_gridview_vs_base">10dp</dimen>
+    <dimen name="fudtransfer_menu_gridview_hs_base">10dp</dimen>
+    <dimen name="fudtransfer_menu_gridview_hs_7">15dp</dimen>
+    <dimen name="fudtransfer_menu_gridview_hs_10">20dp</dimen>
+
+    <dimen name="row_welcome_menu_ll_padding_base">5dp</dimen>
+    <dimen name="row_welcome_menu_ll_margin_top_base">5dp</dimen>
+    <dimen name="row_welcome_menu_ll_margin_top_7">10dp</dimen>
+    <dimen name="row_welcome_menu_ll_margin_top_10">15dp</dimen>
+
+    <dimen name="row_welcome_menu_iv_width_height_base">50dp</dimen>
+    <dimen name="row_welcome_menu_iv_width_height_7">60dp</dimen>
+    <dimen name="row_welcome_menu_iv_width_height_10">80dp</dimen>
+
+    <dimen name="row_welcome_menu_iv_margin_top_base">15dp</dimen>
+    <dimen name="row_welcome_menu_iv_margin_top_7">20dp</dimen>
+    <dimen name="row_welcome_menu_iv_margin_top_10">25dp</dimen>
+    <dimen name="row_welcome_menu_tv_size_base">16sp</dimen>
+    <dimen name="row_welcome_menu_tv_margin_top_base">5dp</dimen>
+    <dimen name="row_welcome_menu_tv_padding_base">5dp</dimen>
+    <dimen name="row_welcome_menu_tv2_margin_top_base">5dp</dimen>
+
+    <dimen name="row_welcome_menu_tv2_size_base">12sp</dimen>
+    <dimen name="row_welcome_menu_tv2_size_7">16sp</dimen>
+    <dimen name="row_welcome_menu_tv2_size_10">20sp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="input_card_radius_base">6dp</dimen>
+    <dimen name="input_card_elevation_base">5dp</dimen>
+    <dimen name="elevation_2">2dp</dimen>
+    <dimen name="elevation_5">5dp</dimen>
+    <dimen name="elevation_10">10dp</dimen>
+
+    <dimen name="input_padding_right_base">15dp</dimen>
+    <dimen name="input_padding_right_7">20dp</dimen>
+    <dimen name="input_padding_right_10">25dp</dimen>
+    <dimen name="input_padding_letf_base">15dp</dimen>
+    <dimen name="input_padding_letf_7">20dp</dimen>
+    <dimen name="input_padding_letf_10">25dp</dimen>
+    <dimen name="input_padding_bottom_base">7dp</dimen>
+    <dimen name="input_padding_bottom_7">10dp</dimen>
+    <dimen name="input_padding_bottom_10">15dp</dimen>
+    <dimen name="input_padding_top_base">7dp</dimen>
+    <dimen name="input_padding_top_7">15dp</dimen>
+    <dimen name="input_padding_top_10">20dp</dimen>
+    <dimen name="spinner_height_base">60dp</dimen>
+    <dimen name="spinner_height_7">70dp</dimen>
+    <dimen name="spinner_height_10">80dp</dimen>
+
+    <dimen name="card_spinner_margin_top_base">20dp</dimen>
+    <dimen name="card_spinner_margin_top_360">20dp</dimen>
+    <dimen name="card_spinner_margin_top_7">25dp</dimen>
+    <dimen name="card_spinner_margin_top_10">23dp</dimen>
+
+    <dimen name="input_card_view_top_base">10dp</dimen>
+
+    <dimen name="divider_height_base">1dp</dimen>
+    <dimen name="divider_height_360">1dp</dimen>
+    <dimen name="divider_height_7">2dp</dimen>
+    <dimen name="divider_height_10">3dp</dimen>
+
+
+    <dimen name="header_general_height_base">130dp</dimen>
+    <dimen name="header_general_height_7">160dp</dimen>
+    <dimen name="header_general_height_10">200dp</dimen>
+
+
+    <dimen name="tap_for_balance_button_base">50dp</dimen>
+    <dimen name="tap_for_balance_button_7">55dp</dimen>
+    <dimen name="tap_for_balance_button_10">60dp</dimen>
+
+
+    <dimen name="main_layout_maring_top_base">20dp</dimen>
+    <dimen name="main_layout_maring_top_360">1dp</dimen>
+    <dimen name="main_layout_maring_top_7">25dp</dimen>
+    <dimen name="main_layout_maring_top_10">30dp</dimen>
+
+    <dimen name="main_layout_maring_left_base">15dp</dimen>
+    <dimen name="main_layout_maring_left_360">15dp</dimen>
+    <dimen name="main_layout_maring_left_7">20dp</dimen>
+    <dimen name="main_layout_maring_left_10">25dp</dimen>
+
+    <dimen name="main_layout_maring_right_base">15dp</dimen>
+    <dimen name="main_layout_maring_right_360">15dp</dimen>
+    <dimen name="main_layout_maring_right_7">20dp</dimen>
+    <dimen name="main_layout_maring_right_10">25dp</dimen>
+
+
+    <dimen name="success_dialog_maring_right_base">10dp</dimen>
+    <dimen name="success_dialog_maring_right_360">10dp</dimen>
+    <dimen name="success_dialog_maring_right_7">20dp</dimen>
+    <dimen name="success_dialog_maring_right_10">20dp</dimen>
+
+    <dimen name="success_dialog_maring_left_base">10dp</dimen>
+    <dimen name="success_dialog_maring_left_360">10dp</dimen>
+    <dimen name="success_dialog_maring_left_7">15dp</dimen>
+    <dimen name="success_dialog_maring_left_10">20dp</dimen>
+
+    <dimen name="success_dialog_maring_top_base">10dp</dimen>
+    <dimen name="success_dialog_maring_top_360">10dp</dimen>
+    <dimen name="success_dialog_maring_top_7">15dp</dimen>
+    <dimen name="success_dialog_maring_top_10">20dp</dimen>
+    <dimen name="radius_corner">15dp</dimen>
+    <dimen name="login_card_corner_radius_base">10dp</dimen>
+    <dimen name="login_card_elevation_base">5dp</dimen>
+    <dimen name="login_label_margin_top_base">10dp</dimen>
+
+
+    <dimen name="card_view_login_height_base">100dp</dimen>
+    <dimen name="card_view_login_height_7">120dp</dimen>
+    <dimen name="card_view_login_height_10">130dp</dimen>
+    <dimen name="card_view_general_height_base">92dp</dimen>
+    <dimen name="card_view_general_height_7">120dp</dimen>
+    <dimen name="card_view_general_height_10">130dp</dimen>
+    <dimen name="card_view_general_height_base2">100dp</dimen>
+
+    <dimen name="card_view_edittext_general_height_base">53dp</dimen>
+    <dimen name="card_view_edittext_general_height_7">60dp</dimen>
+    <dimen name="card_view_edittext_general_height_10">70dp</dimen>
+
+    <dimen name="card_view_edittext_phonebook_width_base">30dp</dimen>
+    <dimen name="card_view_edittext_phonebook_height_base">30dp</dimen>
+
+    <dimen name="corner_radius_prepost_paid_base">100dp</dimen>
+
+    <dimen name="prepost_paid_height_base">45dp</dimen>
+    <dimen name="prepost_paid_height_7">50dp</dimen>
+    <dimen name="prepost_paid_height_10">60dp</dimen>
+    <dimen name="confirm_layout_margint_top_base">30dp</dimen>
+    <dimen name="confirm_layout_margint_top_7">40dp</dimen>
+    <dimen name="confirm_layout_margint_top_10">50dp</dimen>
+
+    <dimen name="dashboard_margint_left_base">20dp</dimen>
+    <dimen name="dashboard_margint_left_360">20dp</dimen>
+    <dimen name="dashboard_margint_left_7">25dp</dimen>
+    <dimen name="dashboard_margint_left_10">30dp</dimen>
+
+    <dimen name="dashboard_margint_right_base">20dp</dimen>
+    <dimen name="dashboard_margint_right_360">20dp</dimen>
+    <dimen name="dashboard_margint_right_7">25dp</dimen>
+    <dimen name="dashboard_margint_right_10">30dp</dimen>
+
+    <dimen name="dashboard_margint_top_base">20dp</dimen>
+    <dimen name="dashboard_margint_top_360">20dp</dimen>
+    <dimen name="dashboard_margint_top_7">25dp</dimen>
+    <dimen name="dashboard_margint_top_10">30dp</dimen>
+
+    <dimen name="input_card_margin_top_base">0dp</dimen>
+    <dimen name="input_card_margin_top_360">10dp</dimen>
+    <dimen name="input_card_margin_top_7">10dp</dimen>
+    <dimen name="input_card_margin_top_10">10dp</dimen>
+
+    <dimen name="input_card_margin_opt_top_base">20dp</dimen>
+    <dimen name="input_card_margin_opt_top_360">20dp</dimen>
+    <dimen name="input_card_margin_opt_top_7">20dp</dimen>
+    <dimen name="input_card_margin_opt_top_10">20dp</dimen>
+
+    <dimen name="input_card_spinnger_bottom_marging_label_base">10dp</dimen>
+    <dimen name="input_card_spinnger_bottom_marging_label_360">10dp</dimen>
+    <dimen name="input_card_spinnger_bottom_marging_label_7">10dp</dimen>
+    <dimen name="input_card_spinnger_bottom_marging_label_10">10dp</dimen>
+
+
+    <dimen name="account_left_icon_width_base">50dp</dimen>
+    <dimen name="account_left_icon_width_360">50dp</dimen>
+    <dimen name="account_left_icon_width_7">50dp</dimen>
+    <dimen name="account_left_icon_width_10">50dp</dimen>
+
+    <dimen name="account_layout_padding_base">10dp</dimen>
+    <dimen name="account_layout_padding_360">10dp</dimen>
+    <dimen name="account_layout_padding_7">15dp</dimen>
+    <dimen name="account_layout_padding_10">20dp</dimen>
+
+    <dimen name="account_right_arrow_icon_width_base">25dp</dimen>
+    <dimen name="account_right_arrow_icon_width_360">25dp</dimen>
+    <dimen name="account_right_arrow_icon_width_7">30dp</dimen>
+    <dimen name="account_right_arrow_icon_width_10">30dp</dimen>
+
+    <dimen name="account_detail_padding_base">10dp</dimen>
+    <dimen name="account_detail_padding_360">10dp</dimen>
+    <dimen name="account_detail_padding_7">10dp</dimen>
+    <dimen name="account_detail_padding_10">10dp</dimen>
+
+    <dimen name="account_statement_row_margin_left_base">10dp</dimen>
+    <dimen name="account_statement_row_margin_left_360">10dp</dimen>
+    <dimen name="account_statement_row_margin_left_7">10dp</dimen>
+    <dimen name="account_statement_row_margin_left_10">10dp</dimen>
+
+    <dimen name="account_statement_row_margin_right_base">10dp</dimen>
+    <dimen name="account_statement_row_margin_right_360">10dp</dimen>
+    <dimen name="account_statement_row_margin_right_7">10dp</dimen>
+    <dimen name="account_statement_row_margin_right_10">10dp</dimen>
+
+    <dimen name="account_statement_row_padding_base">5dp</dimen>
+    <dimen name="account_statement_row_padding_360">5dp</dimen>
+    <dimen name="account_statement_row_padding_7">5dp</dimen>
+    <dimen name="account_statement_row_padding_10">5dp</dimen>
+
+    <dimen name="account_statement_row_width_base">120dp</dimen>
+    <dimen name="account_statement_row_width_360">120dp</dimen>
+    <dimen name="account_statement_row_width_7">150dp</dimen>
+    <dimen name="account_statement_row_width_10">190dp</dimen>
+
+    <dimen name="account_statement_row_remark_width_base">300dp</dimen>
+
+    <dimen name="header_background_image_height_base">220dp</dimen>
+    <dimen name="header_background_image_height_360">220dp</dimen>
+    <dimen name="header_background_image_height_7">280dp</dimen>
+    <dimen name="header_background_image_height_10">400dp</dimen>
+
+    <dimen name="header_content_minus_margin_top_base">-35dp</dimen>
+    <dimen name="header_content_minus_margin_top_360">-30dp</dimen>
+    <dimen name="header_content_minus_margin_top_7">-40dp</dimen>
+    <dimen name="header_content_minus_margin_top_10">-45dp</dimen>
+
+    <dimen name="header_add_view_button_height_base">50dp</dimen>
+    <dimen name="header_add_view_button_height_360">50dp</dimen>
+    <dimen name="header_add_view_button_height_7">60dp</dimen>
+    <dimen name="header_add_view_button_height_10">60dp</dimen>
+
+    <dimen name="header_add_view_button_margin_top_base">-50dp</dimen>
+    <dimen name="header_add_view_button_margin_top_360">-50dp</dimen>
+    <dimen name="header_add_view_button_margin_top_7">-60dp</dimen>
+    <dimen name="header_add_view_button_margin_top_10">-70dp</dimen>
+
+    <dimen name="content_minus_top_base">-30dp</dimen>
+    <dimen name="content_minus_top_360">-30dp</dimen>
+    <dimen name="content_minus_top_7">-40dp</dimen>
+    <dimen name="content_minus_top_10">-55dp</dimen>
+
+    <dimen name="header_add_view_beneficiary_minus_margin_top_base">-80dp</dimen>
+
+    <dimen name="header_background_image_welcome_height_base">180dp</dimen>
+    <dimen name="header_background_image_welcome_height_360">200dp</dimen>
+    <dimen name="header_background_image_welcome_height_7">250dp</dimen>
+    <dimen name="header_background_image_welcome_height_10">380dp</dimen>
+
+    <dimen name="bottom_nav_height_base" tools:override="true">90dp</dimen>
+    <dimen name="bottom_nav_height_360">90dp</dimen>
+    <dimen name="bottom_nav_height_7">100dp</dimen>
+    <dimen name="bottom_nav_height_10">110dp</dimen>
+
+
+    <dimen name="confirm_label_padding_base">10dp</dimen>
+    <dimen name="confirm_label_padding_360">10dp</dimen>
+    <dimen name="confirm_label_padding_7">10dp</dimen>
+    <dimen name="confirm_label_padding_10">10dp</dimen>
+
+    <dimen name="button_right_icon_padding_base">10dp</dimen>
+    <dimen name="button_right_icon_padding_360">10dp</dimen>
+    <dimen name="button_right_icon_padding_7">15dp</dimen>
+    <dimen name="button_right_icon_padding_10">20dp</dimen>
+
+    <dimen name="spineer_textView_margin_top_base">10dp</dimen>
+    <dimen name="spineer_textView_margin_top_360">10dp</dimen>
+    <dimen name="spineer_textView_margin_top_7">10dp</dimen>
+    <dimen name="spineer_textView_margin_top_10">10dp</dimen>
+
+    <dimen name="fund_transfer_dashbard_padding_top_base">10dp</dimen>
+    <dimen name="fund_transfer_dashbard_padding_top_7">15dp</dimen>
+    <dimen name="fund_transfer_dashbard_padding_top_10">20dp</dimen>
+
+    <dimen name="arrow_padding_account_setting_base">5dp</dimen>
+    <dimen name="arrow_padding_account_setting_360">5dp</dimen>
+    <dimen name="arrow_padding_account_setting_7">7dp</dimen>
+    <dimen name="arrow_padding_account_setting_10">10dp</dimen>
+
+    <dimen name="account_setting_text_padding_left_base">5dp</dimen>
+    <dimen name="account_setting_text_padding_left_360">5dp</dimen>
+    <dimen name="account_setting_text_padding_left_7">5dp</dimen>
+    <dimen name="account_setting_text_padding_left_10">5dp</dimen>
+
+    <dimen name="succes_check_icon_width_base">100dp</dimen>
+    <dimen name="succes_check_icon_width_360">100dp</dimen>
+    <dimen name="succes_check_icon_width_7">120dp</dimen>
+    <dimen name="succes_check_icon_width_10">120dp</dimen>
+
+    <dimen name="account_statement_calender_icon_base">25dp</dimen>
+    <dimen name="account_statement_calender_icon_360">25dp</dimen>
+    <dimen name="account_statement_calender_icon_7">30dp</dimen>
+    <dimen name="account_statement_calender_icon_10">40dp</dimen>
+
+    <dimen name="welcome_menu_icon_height_base">35dp</dimen>
+    <dimen name="welcome_menu_icon_height_360">35dp</dimen>
+    <dimen name="welcome_menu_icon_height_7">50dp</dimen>
+    <dimen name="welcome_menu_icon_height_10">70dp</dimen>
+
+    <dimen name="welcome_menu_icon_width_base">35dp</dimen>
+    <dimen name="welcome_menu_icon_width_360">35dp</dimen>
+    <dimen name="welcome_menu_icon_width_7">200dp</dimen>
+    <dimen name="welcome_menu_icon_width_10">300dp</dimen>
+
+    <dimen name="edit_view_icon_width_base">60dp</dimen>
+    <dimen name="edit_view_icon_width_360">60dp</dimen>
+    <dimen name="edit_view_icon_width_7">70dp</dimen>
+    <dimen name="edit_view_icon_width_10">80dp</dimen>
+
+    <dimen name="success_message_margin_top_base">40dp</dimen>
+    <dimen name="success_message_margin_top_360">40dp</dimen>
+    <dimen name="success_message_margin_top_7">50dp</dimen>
+    <dimen name="success_message_margin_top_10">60dp</dimen>
+
+    <dimen name="success_image_bottom_margin_base">-70dp</dimen>
+    <dimen name="success_image_bottom_margin_360">-70dp</dimen>
+    <dimen name="success_image_bottom_margin_7">-80dp</dimen>
+    <dimen name="success_image_bottom_margin_10">-90dp</dimen>
+
+    <dimen name="operator_icon_height_width_base">30dp</dimen>
+    <dimen name="operator_icon_height_width_360">30dp</dimen>
+    <dimen name="operator_icon_height_width_7">35dp</dimen>
+    <dimen name="operator_icon_height_width_10">35dp</dimen>
+
+    <dimen name="perator_height_base">3dp</dimen>
+    <dimen name="perator_height_360">3dp</dimen>
+    <dimen name="perator_height_7">5dp</dimen>
+    <dimen name="perator_height_10">6dp</dimen>
+
+    <dimen name="notification_tv_title_margin_base">5dp</dimen>
+    <dimen name="notification_tv_title_margin_360">5dp</dimen>
+    <dimen name="notification_tv_title_margin_7">10dp</dimen>
+    <dimen name="notification_tv_title_margin_10">15dp</dimen>
+
+
+    <dimen name="row_notification_icon_image_height_width_base">50dp</dimen>
+    <dimen name="row_notification_icon_image_height_width_360">50dp</dimen>
+    <dimen name="row_notification_icon_image_height_width_7">60dp</dimen>
+    <dimen name="row_notification_icon_image_height_width_10">60dp</dimen>
+
+    <dimen name="row_notifi_cardview_padding_base">5dp</dimen>
+    <dimen name="row_notifi_cardview_padding_360">5dp</dimen>
+    <dimen name="row_notifi_cardview_padding_7">10dp</dimen>
+    <dimen name="row_notifi_cardview_padding_10">15dp</dimen>
+
+    <dimen name="row_acc_state_tv2_textsize_base">18sp</dimen>
+    <dimen name="row_acc_state_tv2_textsize_360">18sp</dimen>
+    <dimen name="row_acc_state_tv2_textsize_7">20sp</dimen>
+    <dimen name="row_acc_state_tv2_textsize_10">22sp</dimen>
+
+    <dimen name="row_notifi_tv_margin_left_base">10dp</dimen>
+    <dimen name="row_notifi_tv_margin_left_360">10dp</dimen>
+    <dimen name="row_notifi_tv_margin_left_7">15dp</dimen>
+    <dimen name="row_notifi_tv_margin_left_10">20dp</dimen>
+
+    <dimen name="next_bill_icon_base">35dp</dimen>
+
+    <dimen name="dropdwon_arrow_width_height_base">30dp</dimen>
+    <dimen name="dropdwon_arrow_width_height_7">35dp</dimen>
+    <dimen name="dropdwon_arrow_width_height_10">40dp</dimen>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="height_450dp">450dp</dimen>
+    <dimen name="pallii_textsize">13sp</dimen>
+    <dimen name="dreg_payment_success_button_margin_top_base">20dp</dimen>
+    <dimen name="zero_dp">0dp</dimen>
+
+
+    <dimen name="success_icon_size_base">100dp</dimen>
+    <dimen name="success_icon_size_7">120dp</dimen>
+    <dimen name="success_icon_size_10">140dp</dimen>
+
+
+</resources>
