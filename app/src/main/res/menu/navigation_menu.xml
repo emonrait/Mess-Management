@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home_id"
+            android:icon="@drawable/registration"
+            android:title="Registration" />
+        <item
+            android:id="@+id/notification_id"
+            android:icon="@drawable/notification"
+            android:title="Notification" />
+        <item
+            android:id="@+id/service_id"
+            android:icon="@drawable/services"
+            android:title="Service" />
+        <item
+            android:id="@+id/aboutus_id"
+            android:icon="@drawable/about_us"
+            android:title="About Us" />
+        <item
+            android:id="@+id/safetytips_id"
+            android:icon="@drawable/safetytips"
+            android:title="Safety Tips" />
+        <item
+            android:id="@+id/tranlimit_id"
+            android:icon="@drawable/transactionlimit"
+            android:title="Transactional Limit" />
+        <item
+            android:id="@+id/branch_location_id"
+            android:icon="@drawable/branch_location"
+            android:title="Branch Location" />
+        <item
+            android:id="@+id/atm_id"
+            android:icon="@drawable/atm_location"
+            android:title="ATM Location" />
+        <item
+            android:id="@+id/terms_and_condition_id"
+            android:icon="@drawable/terms_and_conditions"
+            android:title="Terms and Conditions" />
+        <item
+            android:id="@+id/language_settings_id"
+            android:icon="@drawable/language_settings"
+            android:title="Language Settings" />
+        <item
+            android:id="@+id/contact_us_id"
+            android:icon="@drawable/contact_us"
+            android:title="Contact Us" />
+        <item
+            android:id="@+id/exit_id"
+            android:icon="@drawable/exit_icon"
+            android:title="Exit" />
+
+
+    </group>
+</menu>

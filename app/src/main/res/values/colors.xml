@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#5778F2</color>
+    <color name="colorPrimaryDark">#5778F2</color>
+    <!-- <color name="colorAccent">#03DAC5</color>-->
+    <color name="colorAccent">#5778F2</color>
+
+
+    <color name="login_toolbar_backgorund">#7341F1</color>
+    <color name="textView_login_edittext_color">#5F7586</color>
+    <color name="hints_login_edittext_color">#8097A8</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#0B0A0A</color>
+    <color name="login_button_background">#5778F2</color>
+    <color name="theme_color">#5778F2</color>
+    <color name="success_dialog_details_color">#F3F8FC</color>
+
+
+    <color name="login_card_shadow_end_color">#041ADB99</color>
+    <color name="login_card_shadow_start_color">#cce8ff</color>
+    <color name="opacity_dicalog">#80000000</color>
+
+    <color name="stoke_color_account_detail">#5778F2</color>
+    <color name="statement_header_background_color">#5F7586</color>
+    <color name="statement_row_background_color">#B9CCDB</color>
+    <color name="edittext_lable_color">#5F7586</color>
+    <color name="edittext_hint_text_color">#000000</color>
+    <color name="background_view_benificiary">#5778F2</color>
+    <color name="color_red_with_opacity">#A9E20000</color>
+    <color name="red">#E20000</color>
+    <color name="fontBlackEnable">#000000</color>
+
+    <color name="visa_debit">#1f62af</color>
+    <color name="visa_credit_card">#122e44</color>
+    <color name="visa_header_color">#151959</color>
+    <color name="visa_round_color">#f2f4f8</color>
+    <color name="visa_changecolor">#1264c9</color>
+    <color name="visa_payment_send">#003FA9</color>
+    <color name="amber_800">#FF8F00</color>
+    <color name="grey_10">#e6e6e6</color>
+    <color name="success_text_color">#28a745</color>
+    <color name="s_divider_color">#e6e6e6</color>
+    <color name="cyan_700">#0097A7</color>
+    <color name="grey_60">#666666</color>
+    <color name="light_blue_800">#0277BD</color>
+
+    <color name="gray">#627676</color>
+    <color name="sub_btn_background">#424a52</color>
+    <color name="sub_btn_line">#00c68c</color>
+    <color name="sub_btn_ripple">#eff0f2</color>
+    <color name="sub_btn_tick">#eff0f2</color>
+    <color name="yellow">#eef26c</color>
 </resources>

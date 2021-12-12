@@ -13,12 +13,17 @@
     <dimen name="margin_15">15dp</dimen>
     <dimen name="margin_20">20dp</dimen>
     <dimen name="margin_25">25dp</dimen>
+    <dimen name="margin_35">35dp</dimen>
     <dimen name="margin_40">40dp</dimen>
     <dimen name="margin_50">50dp</dimen>
     <dimen name="margin_minus_base">-25dp</dimen>
     <dimen name="margin_minus_10">-10dp</dimen>
+    <dimen name="margin_minus_15">-15dp</dimen>
+    <dimen name="margin_minus_5">-5dp</dimen>
+    <dimen name="margin_minus_3">-3dp</dimen>
     <dimen name="margin_80">80dp</dimen>
     <dimen name="margin_60">60dp</dimen>
+    <dimen name="margin_70">70dp</dimen>
     <dimen name="margin_120">120dp</dimen>
 
     <dimen name="padding_2">2dp</dimen>
@@ -37,11 +42,12 @@
     <dimen name="row_width_70">70dp</dimen>
     <dimen name="row_width_80">80dp</dimen>
     <dimen name="row_width_90">90dp</dimen>
-    <dimen name="row_width_100">1000dp</dimen>
+    <dimen name="row_width_100">100dp</dimen>
     <dimen name="row_width_120">120dp</dimen>
     <dimen name="row_width_130">130dp</dimen>
     <dimen name="row_width_140">140dp</dimen>
     <dimen name="row_width_150">150dp</dimen>
+    <dimen name="row_width_160">160dp</dimen>
 
     <dimen name="header_login_image_height_base">160dp</dimen>
     <dimen name="header_login_image_marign_top_base">20dp</dimen>
@@ -55,16 +61,30 @@
     <dimen name="login_card_view_input_margibn_top_base">30dp</dimen>
 
     <dimen name="header_quick_rechch_height_base">200dp</dimen>
+    <dimen name="header_quick_rechch_height_7">250dp</dimen>
+    <dimen name="header_quick_rechch_height_10">300dp</dimen>
+
     <dimen name="spash_screen_icon_image_height_base">180dp</dimen>
+
     <dimen name="header_quick_rechch_image_height_base">120dp</dimen>
+    <dimen name="header_quick_rechch_image_height_7">150dp</dimen>
+    <dimen name="header_quick_rechch_image_height_10">180dp</dimen>
+
     <dimen name="header_quick_rechch_image_height_login_base">100dp</dimen>
     <dimen name="header_quick_rechch_image_height_login_7">120dp</dimen>
     <dimen name="header_quick_rechch_image_height_login_10">200dp</dimen>
 
     <dimen name="login_button_height_base">92dp</dimen>
+    <dimen name="login_button_height_login_base">60dp</dimen>
+    <dimen name="login_button_height_login_360">60dp</dimen>
+    <dimen name="login_button_height_login_7">70dp</dimen>
+    <dimen name="login_button_height_login_10">80dp</dimen>
     <dimen name="login_button_height_7">110dp</dimen>
-    <dimen name="login_button_height_10">120dp</dimen>
+    <dimen name="login_button_height_10">130dp</dimen>
     <dimen name="login_edit_text_height_base">50dp</dimen>
+    <dimen name="login_edit_text_height_360">50dp</dimen>
+    <dimen name="login_edit_text_height_7">55dp</dimen>
+    <dimen name="login_edit_text_height_10">60dp</dimen>
 
     <dimen name="login_button_imageview_width_base">65dp</dimen>
     <dimen name="login_button_imageview_height_base">65dp</dimen>
@@ -88,10 +108,10 @@
     <dimen name="textsize_12">13sp</dimen>
     <dimen name="textsize_normal">12sp</dimen>
 
-    <dimen name="account_balance_label_textsize_base">12sp</dimen>
-    <dimen name="account_balance_label_textsize_360">12sp</dimen>
-    <dimen name="account_balance_label_textsize_7">16sp</dimen>
-    <dimen name="account_balance_label_textsize_10">20sp</dimen>
+    <dimen name="account_balance_label_textsize_base">16sp</dimen>
+    <dimen name="account_balance_label_textsize_360">16sp</dimen>
+    <dimen name="account_balance_label_textsize_7">18sp</dimen>
+    <dimen name="account_balance_label_textsize_10">22sp</dimen>
 
     <dimen name="button_textsize_base">18sp</dimen>
     <dimen name="button_login_textsize_base">20sp</dimen>
@@ -171,7 +191,7 @@
     <dimen name="card_spinner_margin_top_base">20dp</dimen>
     <dimen name="card_spinner_margin_top_360">20dp</dimen>
     <dimen name="card_spinner_margin_top_7">25dp</dimen>
-    <dimen name="card_spinner_margin_top_10">23dp</dimen>
+    <dimen name="card_spinner_margin_top_10">35dp</dimen>
 
     <dimen name="input_card_view_top_base">10dp</dimen>
 
@@ -284,8 +304,8 @@
 
     <dimen name="account_left_icon_width_base">50dp</dimen>
     <dimen name="account_left_icon_width_360">50dp</dimen>
-    <dimen name="account_left_icon_width_7">50dp</dimen>
-    <dimen name="account_left_icon_width_10">50dp</dimen>
+    <dimen name="account_left_icon_width_7">60dp</dimen>
+    <dimen name="account_left_icon_width_10">70dp</dimen>
 
     <dimen name="account_layout_padding_base">10dp</dimen>
     <dimen name="account_layout_padding_360">10dp</dimen>
@@ -323,6 +343,9 @@
     <dimen name="account_statement_row_width_10">190dp</dimen>
 
     <dimen name="account_statement_row_remark_width_base">300dp</dimen>
+    <dimen name="account_statement_row_remark_width_360">300dp</dimen>
+    <dimen name="account_statement_row_remark_width_7">350dp</dimen>
+    <dimen name="account_statement_row_remark_width_10">400dp</dimen>
 
     <dimen name="header_background_image_height_base">220dp</dimen>
     <dimen name="header_background_image_height_360">220dp</dimen>
@@ -348,6 +371,12 @@
     <dimen name="content_minus_top_360">-30dp</dimen>
     <dimen name="content_minus_top_7">-40dp</dimen>
     <dimen name="content_minus_top_10">-55dp</dimen>
+
+    <dimen name="content_bottom_base">40dp</dimen>
+    <dimen name="content_bottom_360">40dp</dimen>
+    <dimen name="content_bottom_7">50dp</dimen>
+    <dimen name="content_bottom_10">60dp</dimen>
+
 
     <dimen name="header_add_view_beneficiary_minus_margin_top_base">-80dp</dimen>
 
@@ -463,6 +492,8 @@
     <dimen name="row_notifi_tv_margin_left_10">20dp</dimen>
 
     <dimen name="next_bill_icon_base">35dp</dimen>
+    <dimen name="next_bill_icon_7">40dp</dimen>
+    <dimen name="next_bill_icon_10">45dp</dimen>
 
     <dimen name="dropdwon_arrow_width_height_base">30dp</dimen>
     <dimen name="dropdwon_arrow_width_height_7">35dp</dimen>
@@ -477,6 +508,12 @@
     <dimen name="success_icon_size_base">100dp</dimen>
     <dimen name="success_icon_size_7">120dp</dimen>
     <dimen name="success_icon_size_10">140dp</dimen>
+
+
+    <dimen name="hide_layout_size_base">75dp</dimen>
+    <dimen name="hide_layout_size_360">75dp</dimen>
+    <dimen name="hide_layout_size_7">100dp</dimen>
+    <dimen name="hide_layout_size_10">110dp</dimen>
 
 
 </resources>

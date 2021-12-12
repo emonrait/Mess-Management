@@ -1,5 +1,1119 @@
 <resources>
     <string name="app_name">Mess Management</string>
-    <string name="splash_welcome">Welcome</string>
     <string name="splash_by_emon_raihan">Developed By Emon Raihan</string>
+    <string name="company_name">Bank Asia Limited</string>
+    <string name="company_name_witout_limited">Bank Asia</string>
+    <string name="btn_login">Login</string>
+    <string name="login_user_id">User ID</string>
+    <string name="login_password">Password</string>
+    <string name="hints_user_id">Enter Your User ID</string>
+    <string name="hints_password">Enter Password</string>
+    <string name="login_sub_tile">Login</string>
+    <string name="welcome_welcome">Welcome</string>
+    <string name="welcome_name">Enamul Haque</string>
+    <string name="btn_tap_for_balance">Tap for balance</string>
+    <string name="title_activity_welcome2">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_account">Account</string>
+    <string name="title_setting">Settings</string>
+    <string name="login_new_in_app">New in App</string>
+
+    <string name="login_forget_pass"><u>Forgot Password</u></string>
+    <string name="question_mark"> \?  </string>
+    <string name="login_register_here"><u> Click to Register</u></string>
+    <string name="title">Title</string>
+    <string name="btn_proced">Proceed</string>
+    <string name="select_source_account">Source Account</string>
+    <string name="select_bill_type">Bill Type</string>
+    <string name="select_bill_type_bangla">বিল টাইপ</string>
+    <string name="select_destinaton_account">Select Destination Account</string>
+    <string name="view_list">View List</string>
+    <string name="add_beneficiary">Add Beneficiary</string>
+    <string name="available_balance">Available Balance</string>
+    <string name="zero">0.00 BDT</string>
+    <string name="account">10162600</string>
+    <string name="source_account_no">Source A/C No.</string>
+    <string name="source_account_title">Source A/C Title</string>
+    <string name="name">Enamul Haque</string>
+    <string name="destination_account_no">Destination A/C No.</string>
+    <string name="destination_account_title">Destination A/C Title</string>
+    <string name="transfer_amount">Transfer Amount</string>
+    <string name="otp_verification_code">OTP</string>
+    <string name="hint_otp">Enter OTP here</string>
+    <string name="btn_complete">Complete</string>
+    <string name="amount_20000">20,000</string>
+    <string name="amount_20000_bangla">২০,০০০</string>
+    <string name="amount_10000">10,000</string>
+    <string name="amount_10000_bangla">১০,০০০</string>
+    <string name="amount_100000">1,00,000</string>
+    <string name="amount_100000_bangla">১,০০,০০০</string>
+    <string name="amount_50000">50,000</string>
+    <string name="amount_50000_bangla">৫০,০০০</string>
+    <string name="amount_5000">5,000</string>
+    <string name="amount_5000_bangla">৫,০০০</string>
+    <string name="amount_1000">1,000</string>
+    <string name="amount_1000_bangla">১,০০০</string>
+    <string name="amount_500">500</string>
+    <string name="amount_500_bangla">৫০০</string>
+    <string name="amout">Amount</string>
+    <string name="hints_amout">Enter Amount</string>
+    <string name="remark">Remarks</string>
+    <string name="hints_remark">Enter Remarks</string>
+    <string name="destination_type">Destination Type</string>
+    <string name="account_label">Account</string>
+    <string name="bank_name">Bank Name</string>
+    <string name="bank_name_des"></string>
+    <string name="branch_name">Branch Name</string>
+    <string name="bank_branch_des"></string>
+    <string name="destination_bank">Destination Bank</string>
+    <string name="destination_branch">Destination Branch</string>
+    <string name="success_message">Transaction is Successful!</string>
+    <string name="btn_go_bac">Go back</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="postpaid">Postpaid</string>
+    <string name="prepaid">Prepaid</string>
+    <string name="btn_50">50</string>
+    <string name="btn_50_bangla">৫০</string>
+    <string name="btn_100">100</string>
+    <string name="btn_100_bangla">১০০</string>
+    <string name="btn_150">150</string>
+    <string name="btn_150_bangla">১৫০</string>
+    <string name="btn_200">200</string>
+    <string name="btn_200_bangla">২০০</string>
+    <string name="accoutn_password">Password</string>
+    <string name="hint_accoutn_password">Enter password here</string>
+    <string name="number">01921687433</string>
+    <string name="operator">Operator</string>
+    <string name="grameenphone">GrameenPhone</string>
+    <string name="btn_confirm">Confirm</string>
+    <string name="select_select_operator">Select Operator</string>
+    <string name="destination_mobile_number">Destination Mobile</string>
+    <string name="date">Date</string>
+    <string name="balance">Balance</string>
+    <string name="saving">Savings account</string>
+    <string-array name="account_number">
+        <item>Please select account</item>
+        <item>01672708329-Enamul Haque</item>
+        <item>01775377663-Nazim Ullah</item>
+    </string-array>
+
+
+    <string name="log_out_label">Log out</string>
+    <string name="log_out_label_ban">লগ আউট</string>
+    <string name="log_out_title">Thank you for using Smart App.Do you want to logout?</string>
+    <string name="log_out_ok">Yes</string>
+    <string name="log_out_cancel">No</string>
+    <string name="account_details">Account(s) Details</string>
+    <string name="account_statement">Account(s) Statement</string>
+    <string name="account_detail_acnumber">A/C Number</string>
+    <string name="account_type">A/C Type</string>
+    <string name="currency">Currency</string>
+    <string name="account_detail_title">A/C Title</string>
+    <string name="splash_welcome">Welcome to</string>
+    <string name="tv_splash_smart_app">Smart App</string>
+    <string name="splash_by_bank_asia">Bank Asia</string>
+    <string name="today">Today</string>
+    <string name="last_week">Last Week</string>
+    <string name="last_month">Last Month</string>
+    <string name="btn_serach">Search</string>
+    <string name="or">OR</string>
+    <string name="from_date">From Date</string>
+    <string name="to_date">To Date</string>
+    <string name="debit_amount">Debit Amount</string>
+    <string name="credit_amount">Credit Amount</string>
+    <string name="particulars">Particulars</string>
+    <string name="account_statement_pdf_title">Account Statement</string>
+
+    <string name="account_statement_pdf_sl_no">SL No.</string>
+    <string name="setting_user_id_change_request">User ID Change Request</string>
+    <string name="setting_user_id_change_confirmation">User ID Change Confirmation</string>
+    <string name="setting_password_change">Password Change</string>
+    <string name="setting_view_sign_in_status">View Sign In Status</string>
+    <string name="terms_condition"> <u> terms &amp; conditions</u></string>
+    <string name="bkash_wallet">bKash Wallet Number</string>
+    <string name="bkash_wallet_title">bKash Wallet Title</string>
+    <string name="select_bkash_account">bKash Wallet Number</string>
+    <string name="go_back_to_home">Go Back To Home</string>
+    <string name="hints_bkash">bKash Wallet Number</string>
+    <string name="btn_submit">Submit</string>
+    <string name="bkash_view_account_no">bKash Wallet No.</string>
+    <string name="status">Status</string>
+    <string name="select_status">Status</string>
+
+    <string name="notification_channel_id">eraapps.bankasia.bdinternetbanking.smartapp</string>
+    <string name="notifications_admin_channel_name">SMARTAPP</string>
+    <string name="notifications_admin_channel_description">BA-SMART-APP</string>
+    <string name="select_npsn_add_account_type">Select Destination Type</string>
+    <string name="select_npsn_add_account">Destination Type</string>
+    <string name="select_npsn_bank">Bank Name</string>
+    <string name="select_npsn_branch">Branch Name</string>
+    <string name="hints_account_no">Account/Card No</string>
+    <string name="hints_account_card_title">Account/Card Title</string>
+    <string name="enter_mobile_number_bangla">মোবাইল নাম্বার লিখুন </string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="effective_date">Effective Date</string>
+    <string name="payee_id">Payee ID</string>
+    <string name="hints_payee_id">Enter Payee ID</string>
+    <string name="shadhin_card_number">Shadhin Card Number</string>
+    <string name="hints_shadhin_card_number">Enter Shadhin Card Number</string>
+    <string name="payoneer_terms_privacy"><![CDATA[I want to registered my payoneer account to Bank Asia Account for fund transfer, check balance & view history]]></string>
+    <string name="payoneer_terms_privacy_for_payment"><![CDATA[I understand that I am debiting my account to transfer the amount to my account/card in Bank Asia through this app.]]></string>
+    <string name="ok">ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="year">Year</string>
+    <string name="month">Month</string>
+    <string name="select_leaves">Leaves</string>
+    <string name="select_reason">Reason</string>
+    <string name="select_all_leaves">ALL Leaves</string>
+    <string name="select_leave_type">Leaf Type</string>
+    <string name="slno">SL</string>
+    <string name="status_date">Status Date</string>
+    <string name="leaf_no">Leaf No.</string>
+    <string name="transaction_date">Transaction Date</string>
+    <string name="transaction_type">Transaction Type</string>
+    <string name="account_no">Account No.</string>
+    <string name="account_title">Account Title</string>
+    <string name="enter_bill_number">Enter Bill Number</string>
+    <string name="bill_number">Bill Number</string>
+    <string name="enter_customer_code">Enter Customer Code</string>
+    <string name="customer_code">Customer Code</string>
+    <string name="payoneer_account_balance">Payoneer A/C. Balance</string>
+    <string name="free">Fee</string>
+    <string name="server_unrechable_error">Server Is Unreachable.Please try again..</string>
+    <string name="payoneer_description">Description</string>
+    <string name="virtual_amount">Virtual Amount</string>
+    <string name="audit_id">Audit ID</string>
+    <string name="otp_oldPassword">Old Password</string>
+    <string name="hint_old_password">Enter Old Password</string>
+    <string name="hint_new_password">Enter New Password</string>
+    <string name="new_password">New Password</string>
+    <string name="hint_confirm_password">Enter Confirm Password</string>
+    <string name="new_confirm_password">Confirm Password</string>
+    <string name="user_expire_dayys">Expired Days</string>
+
+
+    <string name="visa_select_payament">Select Payment</string>
+    <string name="visa_scan_to_pay">Scan to Pay</string>
+    <string name="visa_hold_camer">Hold your camera on  QR code to pay to merchant.</string>
+    <string name="visa_confirm_payment">Confirm Payment</string>
+    <string name="visa_mn">MN</string>
+    <string name="change_card">Change</string>
+    <string name="visa_withdraw_amount">Merchant Payment Amount</string>
+    <string name="visa_inr">BD</string>
+    <string name="btn_visa_submit">Pay BDT</string>
+    <string name="visa_add_card">Add Card</string>
+    <string name="visa_sent">Sent</string>
+    <string name="visa_total_payment_amount">Total Payment Amount</string>
+    <string name="visa_paid_with">Paid with</string>
+    <string name="visa_payment_type">Payment Type</string>
+    <string name="visa_locatoin">Location</string>
+    <string name="dhaka">Dhaka</string>
+    <string name="visa_transaction">Transaction ID</string>
+    <string name="visa_digital_receipt">Digital Receipt</string>
+    <string name="payment_sent">Payment sent</string>
+    <string name="thanks">Thank You!</string>
+    <string name="thanks_message">Your transaction is successful</string>
+    <string name="merchant_detail_titile">Merchant Information</string>
+    <string name="merchant_detail_merchant_name">Merchant Name</string>
+    <string name="merchant_detail_merchant_card">Merchant Card</string>
+    <string name="merchant_detail_merchant_coutry">Country Code</string>
+    <string name="user_card_no">Card Number</string>
+    <string name="user_details_card_info_title">Card Information</string>
+    <string name="user_details_card_title">Card Title</string>
+    <string name="qr_currency_code">Currency</string>
+    <string name="visa_card_type">Card Type</string>
+    <string name="visa_card_number">Card Number</string>
+    <string name="visa_card_number_bangla">কার্ড নাম্বার</string>
+    <string name="hints_visa_card_number_mm">MM</string>
+    <string name="hints_visa_card_number_yy">YY</string>
+    <string name="hints_visa_card_title">Card Title</string>
+    <string name="hints_visa_card_address">Contact Address</string>
+    <string name="hints_visa_card_city">City</string>
+    <string name="hints_visa_card_zipcode">Zip Code</string>
+    <string name="hints_visa_card_email">Email</string>
+    <string name="back_home">Back to home</string>
+    <string name="print_digital_recipt">Digital Receipt</string>
+    <string name="add_card_details">Card Details</string>
+    <string name="colon">:</string>
+    <string name="add_card_expire_date">Expired Date</string>
+    <string name="next">Next</string>
+    <string name="card_registration">Register card</string>
+    <string name="bank_asia_modify_beneficiary_dialog_title">Update Beneficiary</string>
+    <string name="credit_card_details_name">Name</string>
+    <string name="usd_amount">USD Amount</string>
+    <string name="bdt_amount">BDT Amount</string>
+    <string name="rate">Rate</string>
+    <string name="tc">TC</string>
+    <string name="Transaction_status">Transaction Status</string>
+    <string name="select_bank">Search Bank Name</string>
+    <string name="select_branch_name">Search Branch Name</string>
+    <string name="quick_login_text">Press Login button to get all services</string>
+    <string name="top_up">Top Up</string>
+    <string name="statement">Statement</string>
+    <string name="fund_transfer">Fund Transfer</string>
+    <string name="quick_reach">Quick Reach</string>
+    <string name="bkash">bKash</string>
+    <string name="utility_bill">Utility Bills</string>
+    <string name="select_card_type">Select Card Type</string>
+    <string name="select_card_type_bangla">কার্ডের ধরন</string>
+    <string name="select_card_type_des">Select Card</string>
+    <string name="statement_date">Statement Date</string>
+    <string name="payment_date">Payment Date</string>
+    <string name="merchant_city">City</string>
+    <string name="merchant_account_no">Merchant Account No.</string>
+    <string name="account_number">Account Number</string>
+    <string name="otp_verification_code_level">OTP verification code</string>
+    <string name="submit">Submit</string>
+    <string name="registration">Registration</string>
+    <string name="submit_request">Submit request</string>
+    <string name="already_registered">Already Registered</string>
+    <string name="a_c_title">A/C Title</string>
+    <string name="limit_amount">Limit Amount</string>
+    <string name="update_beneficiary">Update Beneficiary</string>
+    <string name="enter_account_title">Enter Account Title</string>
+    <string name="a_c_no">A/C No.</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="customer_a_c">Customer A/C</string>
+    <string name="bill_month">Bill Month</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="due_date">Due Date</string>
+    <string name="location_code">Location Code</string>
+    <string name="bill_status">Bill Status</string>
+    <string name="amount_after_due_date">Amount After Due Date</string>
+    <string name="inspector_id">Inspector ID</string>
+    <string name="total_bill">Total Bill</string>
+    <string name="water_bill">Water Bill</string>
+    <string name="sewer_bill">Sewer Bill</string>
+    <string name="ser_charge">Ser-Charge</string>
+    <string name="vat_amount">Vat Amount</string>
+    <string name="fix_charge">Fix Charge</string>
+    <string name="wasa_bill_payment_level">"WASA Bills Payment"</string>
+    <string name="contact_permission_rationale">Need contacts read permission for fetching and displaying contacts</string>
+
+
+    <!-- About -->
+    <string name="lb_hotline">24/7 Call Center: 16205
++8809617016205
+Email: contact.center@bankasia-bd.com
+</string>
+
+    <string name="lb_helpline">
+<u>24/7 Contact center: 16205</u>
+</string>
+    <string name="lb_helpline_overseas">
+<u>For Overseas :+8809617016205</u>
+</string>
+
+    <string name="lb_contact_email">
+<u>contact.center@bankasia-bd.com</u>
+</string>
+
+
+    <string name="lb_about_text">
+<![CDATA[
+Bank Asia SMART App(Version 1.1.1) is fast, hassle free & secure mobile App for Bank Asia
+Customer. It offers the convenience of  Balance Inquiry and Account Statement, the
+facility for Fund Transfer, the payments of Utility Bills and Airtime Recharge etc.
+This app is compatible with any android/apple device. Bank Asia internet banking
+users will login with the same User ID & Password.
+]]>
+    </string>
+
+    <string name="lb_channel_banking_address_text"><b>ADC Department</b>\nRangs Tower (Level 4),
+    68, Purana Paltan, Dhaka - 1000
+
+    </string>
+
+    <string name="lb_corporate_address_text"><b>Corporate Office</b>\nBank Asia Tower,
+32 - 34, Kazi Nazrul Islam Avenue,
+Karwan Bazar, Dhaka - 1215
+    </string>
+
+
+    <!-- Terms and Privacey -->
+
+
+    <string name="lb_safty_trip">Safety Tips</string>
+    <string name="lb_safty_trip_bangla">সুরক্ষা টিপস</string>
+    <string name="lb_tran_limit">Transactional Limit</string>
+    <string name="lb_tran_limit_bangla">লেনদেন সীমা</string>
+    <string name="lb_exit_bangla">বন্ধ করুন</string>
+    <string name="lb_safty_trip_text">
+<![CDATA[
+Using Bank Asia SMART App, banking & financial transactions are at your fingertips.
+Here some precautions for safe and secure transaction using mobile banking app:\n
+• Set up a Pin/Password to access the handset menu on your mobile phone\n
+• Delete junk message and chain messages regularly\n
+• Do not follow any URL in message that you are not sure about\n
+• Clear the browsing history\n
+• Clear cache and temporary files stored in the memory as they may contain your
+account numbers and other sensitive information\n
+• Do not enable auto-fill or save user IDS or passwords for mobile apps\n
+• Turn off wireless device services such as Wi-Fi, Bluetooth and GPS when they are
+not being used.\n
+• Only download apps from official app stores such as Apple itunes, Android
+Marketplace, Google Play Store and BlackBerry App world.\n
+• Log out from online application as soon as you have completed your transactions.
+Also make sure you close that window.\n
+• In case you lose your mobile phone, please call our 24/7 Customer Care to
+deactivate the mobile app. Hotline: 16205, +8809617016205.
+]]>
+    </string>
+
+    <string name="terms_contiong_english">
+        <b><u>ATTENTION : </u></b>\n\n
+        This legal notice applies to the entire contents of this website &amp; this application under the domain name www.bankasia.net (website) and to any correspondence by email between us and you. Please read these terms carefully before using this website or this application. Using this website or this application indicates that you accept these terms regardless of whether or not you choose to register with us. If you do not accept these terms, do not use this website or this application. This notice is issued by NET SUPPORT TEAM.\n\n
+
+        <b><u>1. GENERAL : </u></b>\n\n
+        1.1 You acknowledge that the Internet or sites systems, services and equipment may change from time to time be inoperative in full or in part as a consequence of but not limited to, mechanical breakdown, maintenance, hardware or software upgrades, any communication connectivity problems or other facts beyond the control of this site or this application and you acknowledge that this site or this application will not be held liable for any failure or inability to provide continuous, error free, uninterrupted services under these or any other circumstances.\n\n
+        1.2 You will not be able to access some areas of this Website or this application without registering your details with us. Certain areas of this Website or application will only open if you are registered.You will not be able to access some areas of this Website or this application without registering your details with us. Certain areas of this Website or application will only open if you are registered. \n\n
+        1.3 By accessing any part of this Website or this application, you shall be deemed to have accepted this legal notice in full. If you do not accept this legal notice in full, you must leave this Website or close this application immediately.\n\n
+        1.4 This site or this application may revise this legal notice at any time by updating this posting. Certain provisions of this legal notice may be superseded by expressly designated legal notices or terms located on particular pages at this Website or this application.\n\n
+
+        <b><u>2. MEMBERSHIP CONDITION : </u></b>\n\n
+            The Website or this application services are not available to, and may not be used by, anyone below 18 years old, or who are temporarily or indefinitely suspended by Website or this application members. If you are under 18 years old, you can use this service only in conjunction with the supervision of parent or legal guardian. If you are business entity, you represent that you have the authority to bind that entity to this Agreement.\n\n
+         <b><u>3. REGISTRATION : </u></b>\n\n
+        You must choose a password after completion your registration. You shall be responsible for all actions taken under that password and shall only access the Website or this application by using your password. You should not disclose/sharing your password to any other person.\n\n
+
+     <b><u>4. CHANGES : </u></b>\n\n
+        4.1 This site or this application may changes in or withdraw any of the services described in this website at any time without prior notice. \n\n
+        4.2 The services which this site or this application offers to clients/customer are entirely gratuitous and this site shall not be obliged to maintain or continue any services offered to you. Without prejudice to the generality of the foregoing this site reserves the right to suspend or cancel the provision of any service to any particular client/customer for any reason whatsoever.\n\n
+        4.3 This site reserves the right to change/modification these terms and conditions website or this application.\n\n
+
+        <b><u>5. INFORMATION AND EMAILS YOU SEND US OR SUBMIT : </u></b>\n\n
+        5.1 You should ensure that information you send to us is accurate and you are prohibited from posting or transmitting to or from this Website or this application any material that is libelous, obscene, indecent, seditious, pornographic, menacing, threatening, offensive, abusive, liable to incite racial hatred, discriminatory, scandalous, inflammatory, blasphemous, in breach of confidence, in breach of privacy, which may cause annoyance or inconvenience, fraudulent, which constitutes or encourages conduct that would be considered a criminal offence, gives rise to civil liability, or otherwise be contrary to the law of or infringes the rights of any third party, in Bangladesh or any other country in the world; which is technically harmful (including, without limitation, computer viruses, logic bombs, Trojan horses, worms, harmful components, corrupted data or other malicious software or harmful data) or for which you have not obtained all necessary licenses and/or approvals.\n\n
+        5.2 You may not misuse the Website or this application (including, without limitation) by hacking or committing fraud. \n\n
+        5.3 This site will fully co-operate with any law enforcement authorities or court order requesting or directing this site to disclose the identity or locate anyone posting any material, misusing the Website or otherwise purporting to breach the law in contravention of paragraphs 5 .1 or 5.2.\n\n
+        5.4 If you breach of any of the terms contained in paragraphs 5.1 and 5.2 of this site will terminate the services provided by this Website or this application.\n\n
+        5.5 This site accepts no responsibility or liability for the use by any agency, employer or other third party about you forwarded to any agency, employer (whether by this site or you) or to any third party which comes to your attention directly or indirectly through your use of this Website or this application.\n\n
+
+        <b><u>6. LINKS : </u></b>\n\n
+        6.1 This site does not make any representation as to the security, quality or propriety of any website which may be accessed through this Website &amp; this service. Linked websites accessed through this Website are independent websites over which this site does not exercise any control, whether financial, editorial or any other kind are not. Endorsed by this site.\n\n
+        6.2 Accordingly this site has no responsibility or liability to you in respect of any products or services neither purchased or obtained by you from any such linked website nor in respect of the use of any personally identifying information by any such linked website or its owner. If you decide to access any of the third party websites linked to this Website or this application, you do so entirely at your own risk. \n\n
+        6.3 You shall not link to this Website or this application without the express written permission of this site administrator.\n\n
+          (6.3.1) You are not allowed to remove, distort or otherwise alter the size or appearance of the site.\n\n
+         (6.3.2) You are not allowed to create a frame or any other browser or border environment around this Website and this application\n\n
+         (6.3.3) You are not entitled in any way that the site is endorsing by using any products or services other than its own. \n\n
+         (6.3.4) You are not allowed to pretend your relationship with this site nor present any other false information about this site.\n\n
+        6.4 If you have been granted permission to link to this Website or this application, you may only do so on the basis that you link to, but do not replicate, the home page of this Website, and subject to the following conditions:\n\n
+
+        7.1 This Website or this application contains copyright material, and other proprietary information, including but not limited to, design, text, software and graphics. The entire contents of this Website or this application are protected by copyright. This site, or its licensors, own copyright and/or database rights in the selection, coordination, arrangement and enhancement of such content, as well as in the content original to it. You may not modify, publish, transmit, participate in the transfer or sale, create derivative works, or in any way exploit, any of the content, in whole or in part except as provided below. \n\n
+        7.2 You may download information from this Website or this application for your own personal use only. Except as otherwise expressly permitted under copyright, no copyright, redistribution, retransmission, publication or commercial exploitation of downloaded material will be permitted without our express permission and that of the copyright owner. In the event of any permitted copying, redistribution or publication of copyright material, no changes in or deletion of author attribution or copyright notice shall be made. You acknowledge that you do not acquire any ownership rights by downloading copyright material.\n\n
+        7.3 If you breach any of the terms in this legal notice, your permission to use this Website or this application automatically terminates and you must immediately destroy any downloaded or printed extracts from this Website or this application.\n\n
+
+        <b><u>8. VIRUSES ETC : </u></b>\n\n
+        This site or this application will not be liable to you for any direct, indirect, consequential, special or other damage resulting from the transmission from this Website to your computer systems, mobile or smart device of viruses, worms, Trojan horses or other destructive items, however caused, such damage to include, without limitation, loss of profits, interruption to business, loss of the whole or any part of a program or any data howsoever stored whether saved on a computer system or otherwise.\n\n
+
+
+    <b><u>9. HOW THIS SITE PROTECTS AND USES INFORMATION WHICH THIS SITE HOLDS ABOUT YOU : </u></b>\n\n
+        The Internet is not a secure medium. However, this site or this application will use its reasonable endeavors to keep the personal information it receives about you confidential although nothing in these terms and conditions shall restrict or prohibit. This site uses your information in accordance with its Privacy Policy (click to view) from time to time and you consent to the use of your information in such way.\n\n
+
+ <b><u>10. LOSSES RESULTING FROM UNAUTHORISED ACCESS TO YOUR DATA : </u></b>\n\n
+   You accept the risk that data transmitted electronically via this Website or otherwise may be intercepted before reaching its intended destination or accessed by unauthorized third parties and may be exploited unlawfully by such third parties. This site does not assume responsibility for guarding against the acts of such third parties and shall not be liable for any direct, indirect, consequential, special or other damage resulting from third parties interception of or access to data of whatever nature.\n\n
+
+  <b><u>11. LIABILITY : </u></b>\n\n
+        11.1 This site or this application excludes all liability it may have to you to the fullest extent permitted by law (and whether such liability arises in contract, tort or otherwise). \n\n
+		11.2 Nothing in these terms and conditions shall exclude websites or application’s liability for death or personal injury due to its negligence or for fraudulent misrepresentation. \n\n
+	    11.3 If your use of material on this Website or this application results in the need for servicing, repair or correction of equipment, software or data you assume all costs thereof.\n\n
+
+<b><u>12 DISCLAIMERS : </u></b>\n\n
+
+        12.1 While this site endeavors to ensure that the information on this Website or this application is correct, this site or service does not warrant the accuracy and completeness of the material on this Website or this application. This site may make changes to the material on this Website or this application at any time without notice. The material on this Website or this application may be out of date, and this site or this service makes no commitment to update such material. Please note that you will be required to use caution, common sense and good awareness as there are also risks of dealing with persons or people acting under false pretences. By using the Website or this application you agree to all risks and agree that this site or this service is not responsible for the acts or omissions of others.  \n\n
+		12.2 The material at this Website or this Application is provided as is without any conditions, warranties or other terms of any kind. Accordingly to the maximum extent permitted by law, this site provides you with this Website or the application on the basis that this site or this service excludes all representations, warranties, conditions and other terms which but for this legal notice might have effect in relation to this Website. \n\n
+		12.3 This site or this service shall not be liable to you for any loss or damage suffered, of any nature whatsoever as a result of youre using this Website or this application or our services.\n\n
+
+<b><u>13. HEADINGS : </u></b>\n\n
+    Any headings in these terms and conditions are for convenience only and shall not affect their construction.\n\n
+<b><u>14. GOVERNING LAW : </u></b>\n\n
+    If not actually the case, the contract under which you use this website or this application shall be deemed to have been made in Bangladesh and the construction, validity and performance of these terms and conditions of use shall be governed in all respects by Bangladesh law and the courts shall have exclusive jurisdiction in respect of any dispute between you and this site or this service concerning your use of this website or this application.
+
+    </string>
+
+
+    <string name="terms_privacy_english">
+       <![CDATA[
+    <html>
+    <head>
+
+    </head>
+
+    <body>
+    <h4>Terms  & Conditions</h4>
+     <ul>
+        <li>You will not be able to access this App without registration. This App is only enabled if you are registered.</li>
+        <li>You can transfer your money from your Source A&#47;C to others pre-informed Destination A&#47;Cs of Bank Asia.</li>
+        <li>You can transfer BDT 1,50,000&#47;&#45; day(Conventional) & BDT 20,000&#47;&#45; day(Agent Banking) and maximum amount will be BDT 50,000&#47;&#45;transaction & BDT 10,000&#47;&#45; transaction respectively, 3 (three) times in a day.</li>
+        <li>You can pay Utility bill (DESCO &#47; WASA) from your A&#47;C.</li>
+        <li>You must choose a password on completion of registration. You shall be responsible for all activities under that password and shall only access this App by using your own password. You should not disclose your password to any other person.</li>
+        <li>You should ensure that information you send to us is accurate and you are prohibited to provide any illegal information.</li>
+        <li>This App will not be liable to you for any damage of your mobile or smart device due to viruses, worms, Trojan horses or other destructive items and data transmitted by third parties interception.</li>
+        <li>You have to follow the rules of Bangladesh Bank Money Laundering Act as well as Bank internal regulations.</li>
+        <li>Bank Asia reserves the right to change any terms and conditions of this App.</li>
+        <li>Bank Asia also reserves the rights to make any changes in or withdraw any of the services described at any time without prior notice.</li>
+      </ul>
+    </body>
+    </html>
+   ]]>
+</string>
+
+
+    <string-array name="tesItems">
+        <item>lksdm glk magyet</item>
+        <item>teszt két</item>
+        <item>teszt három</item>
+    </string-array>
+
+    <!--Begin Bangla-->
+    <!--Quick Search -->
+    <string name="quick_reach_bangla">কুইক রিচ</string>
+    <string name="top_up_bangla">মোবাইল রিচার্জ</string>
+    <string name="statement_bangla">বিবরণ</string>
+    <string name="fund_transfer_bangla">ব্যালেন্স ট্রান্সফার</string>
+    <string name="bkash_bangla">বিকাশ</string>
+    <string name="utility_bill_bangla">ইউটিলিটি বিল</string>
+    <string name="quick_login_text_bangla">সকল সেবা পেতে লগইন বাটনে ক্লিক করুন</string>
+    <string name="btn_login_bangla">লগইন করুন</string>
+    <string name="login_new_in_app_bangla">অ্যাপ এ নতুন</string>
+    <string name="login_register_here_bangla"><u> নিবন্ধন করতে ক্লিক করুন</u></string>
+    <!--Log In -->
+    <string name="login_user_id_bangla">ইউজার আইডি</string>
+    <string name="login_password_bangla">পাসওয়ার্ড</string>
+    <string name="hints_login_password_bangla">পাসওয়ার্ড লিখুন</string>
+    <string name="login_forget_pass_bangla"><u>পাসওয়ার্ড ভুলে গিয়েছেন</u></string>
+    <string name="tvSelfOnBoarding_bangla">নতুন হিসাব খুলুন</string>
+    <!--Dashboard -->
+    <string name="welcome_welcome_bangla">স্বাগতম</string>
+    <string name="btn_tap_for_balance_bangla">ব্যালেন্স জানতে ট্যাপ করুন</string>
+    <string name="mobile_number_bangla">মোবাইল নাম্বার</string>
+    <string name="select_select_operator_bangla">সিলেক্ট অপারেটর</string>
+    <string name="operator_bangla">অপারেটর</string>
+    <string name="postpaid_bangla">পোস্টপেইড</string>
+    <string name="prepaid_bangla">প্রিপেইড</string>
+    <string name="amout_bangla">টাকার পরিমাণ</string>
+    <string name="select_source_account_bangla">সিলেক্ট ডেবিট হিসাব</string>
+    <string name="view_list_bangla">ভিউ লিস্ট</string>
+    <string name="add_beneficiary_bangla">অ্যাড বেনিফিশিয়ারি</string>
+    <string name="select_npsn_add_account_bangla">ডেস্টিনেশন টাইপ</string>
+    <string name="remark_bangla">মন্তব্য</string>
+    <string name="available_balance_bangla">বর্তমান টাকার পরিমাণ</string>
+    <string name="btn_proced_bangla">সামনে যান</string>
+    <string name="account_number_bangla">হিসাব নাম্বার</string>
+    <string name="account_title_bangla">হিসাবের শিরোনাম</string>
+    <string name="amount_limit_bangla">এমাউন্ট লিমিট</string>
+    <string name="otp_verification_code_level_bangla">ওটিপি</string>
+    <string name="tv_splash_smart_app_bangla">স্মার্ট অ্যাপ</string>
+    <string name="submit_bangla">সাবমিট</string>
+    <string name="splash_by_bank_asia_bangla">ব্যাংক এশিয়া</string>
+    <string name="registration_bangla">রেজিস্ট্রেশন</string>
+    <string name="submit_request_bangla">সাবমিট রিকুয়েস্ট</string>
+    <string name="already_registered_bangla">ইতিমধ্যে নিবন্ধ</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="hints_user_id_bangla">আপনার ইউজার আইডি লিখুন</string>
+    <string name="destination_type_bangla">ডেস্টিনেশন টাইপ</string>
+    <string name="bank_name_bangla">ব্যাংকের নাম</string>
+    <string name="branch_name_bangla">ব্রাঞ্চের নাম</string>
+    <string name="hints_amout_bangla">টাকার পরিমাণ লিখুন</string>
+    <string name="source_account_no_bangla">ডেবিট হিসাব নং.</string>
+    <string name="source_account_title_bangla">ডেবিট হিসাব শিরোনাম</string>
+    <string name="destination_account_no_bangla">ক্রেডিট হিসাব নং.</string>
+    <string name="destination_account_no_title_bangla">ডেসটিনেশন হিসাব নম্বর</string>
+    <string name="destination_account_title_bangla">ক্রেডিট হিসাব শিরোনাম</string>
+    <string name="destination_bank_bangla">ক্রেডিট ব্যাংক</string>
+    <string name="destination_branch_bangla">ক্রেডিট ব্রাঞ্চ</string>
+    <string name="transfer_amount_bangla">ট্রান্সফার এমাউন্ট</string>
+    <string name="btn_complete_bangla">সম্পূর্ণ করুন</string>
+    <string name="success_message_bangla">সফলভাবে সম্পন্ন!</string>
+    <string name="date_bangla">তারিখ</string>
+    <string name="btn_go_bac_bangla">পিছনে যান</string>
+    <string name="hints_account_no_bangla">হিসাব/কার্ড নং লিখুন</string>
+    <string name="hints_account_card_title_bangla">হিসাব/কার্ড শিরোনাম লিখুন</string>
+    <string name="a_c_no_bangla">হিসাব নং.</string>
+    <string name="click_to_login_bangla">লগইন করতে ক্লিক করুন</string>
+    <string name="a_c_title_bangla">হিসাব শিরোনাম</string>
+    <string name="update_beneficiary_bangla">আপডেট বেনিফিশিয়ারি</string>
+    <string name="status_bangla">স্ট্যাটাস</string>
+    <string name="cancel_bangla">বাতিল</string>
+    <string name="quick_search_bangla">কুইক সার্চ</string>
+    <string name="branch_search_bangla">ব্রাঞ্চ নাম সার্চ</string>
+    <string name="bank_search_bangla">ব্যাংক নাম সার্চ</string>
+    <string name="enter_account_title_bangla">হিসাবের শিরোনাম লিখুন</string>
+    <string name="limit_amount_bangla">লিমিট এমাউন্ট</string>
+    <string name="hint_otp_bangla">ওটিপি লিখুন</string>
+    <string name="hint_destination_type_bangla">ডেস্টিনেশন টাইপ সিলেক্ট করুন</string>
+    <string name="today_bangla">আজ</string>
+    <string name="last_week_bangla">গত সপ্তাহে</string>
+    <string name="last_month_bangla">গত মাসে</string>
+    <string name="btn_serach_bangla">অনুসন্ধান করুন</string>
+    <string name="or_bangla">অথবা</string>
+    <string name="from_date_bangla">তারিখ হইতে</string>
+    <string name="to_date_bangla">এখন পর্যন্ত</string>
+    <string name="balance_bangla">ব্যালেন্স</string>
+    <string name="account_type_bangla">হিসাব টাইপ</string>
+    <string name="currency_bangla">মুদ্রা</string>
+    <string name="debit_amount_bangla">ডেবিট এমাউন্ট</string>
+    <string name="credit_amount_bangla">ক্রেডিট এমাউন্ট</string>
+    <string name="particulars_bangla">বিশদ বিবরণ</string>
+    <string name="bill_number_bangla">বিল নাম্বার</string>
+    <string name="hint_bill_number_bangla">বিল নাম্বার লিখুন</string>
+    <string name="customer_name_bangla">কাস্টমার নাম</string>
+    <string name="customer_a_c_bangla">কাস্টমার হিসাব নং</string>
+    <string name="bill_month_bangla">বিল মাস</string>
+    <string name="bill_amount_bangla">বিলের পরিমাণ</string>
+    <string name="due_date_bangla">নির্দিষ্ট তারিখ</string>
+    <string name="location_code_bangla">লোকেশন কোড</string>
+    <string name="year_bangla">বছর</string>
+    <string name="month_bangla">মাস</string>
+    <string name="enter_customer_code_bangla">কাস্টমার কোড লিখুন</string>
+    <string name="customer_code_bangla">কাস্টমার কোড</string>
+    <string name="bill_status_bangla">বিল স্টেটাস</string>
+    <string name="hints_remark_bangla">মন্তব্য লিখুন</string>
+    <string name="amount_after_due_date_bangla">নির্ধারিত তারিখের পরে পরিমাণ</string>
+    <string name="wasa_bill_payment_level_bangla">"ওয়াসা বিলস পেমেন্ট"</string>
+    <string name="inspector_id_bangla">ইন্সপেক্টর আইডি</string>
+    <string name="total_bill_bangla">মোট বিল</string>
+    <string name="water_bill_bangla">পানি বিল</string>
+    <string name="sewer_bill_bangla">ড্রেন বিল</string>
+    <string name="vat_amount_bangla">ভ্যাট এমাউন্ট</string>
+    <string name="ser_charge_bangla">সার-চার্জ</string>
+    <string name="fix_charge_bangla">ফিক্স চার্জ</string>
+    <string name="user_expire_dayys_bangla">মেয়াদোত্তীর্ণ দিন</string>
+    <string name="otp_oldPassword_bangla">পুরানো পাসওয়ার্ড</string>
+    <string name="hint_old_password_bangla">পুরানো পাসওয়ার্ড লিখুন</string>
+    <string name="hint_new_password_bangla">নতুন পাসওয়ার্ড লিখুন</string>
+    <string name="new_password_bangla">নতুন পাসওয়ার্ড</string>
+    <string name="hint_confirm_password_bangla">নতুন পাসওয়ার্ড নিশ্চিত করুন</string>
+    <string name="new_confirm_password_bangla">পাসওয়ার্ড নিশ্চিত করুন</string>
+    <string name="setting_password_change_bangla">পাসওয়ার্ড পরিবর্তন</string>
+    <string name="setting_user_id_change_request_bangla">ইউজার আইডি পরিবর্তন অনুরোধ</string>
+    <string name="setting_user_id_change_confirmation_bangla">ইউজার আইডি পরিবর্তন নিশ্চিত</string>
+    <string name="setting_view_sign_in_status_bangla">ভিউ লগইন ইন স্টেটাস</string>
+    <string name="account_details_bangla">হিসাব সমূহ এর বিস্তারিত</string>
+    <string name="account_statement_bangla">লেনদেনের বিবরণ</string>
+    <string name="notification_bangla">নোটিফিকেশন</string>
+    <string name="service_bangla">সেবাসমূহ</string>
+    <string name="service">Services</string>
+    <string name="about_us_bangla">আমাদের সম্পর্কে</string>
+    <string name="about_us">About us</string>
+    <string name="branch_loaction_bangla">ব্রাঞ্চ লোকেশন</string>
+    <string name="atm_loaction_bangla">এটিএম লোকেশন</string>
+    <string name="atm_loaction">ATM Location</string>
+    <string name="terms_condition_bangla">টার্মস এন্ড কন্ডিশন</string>
+    <string name="language_setting_bangla">ভাষা পরিবর্তন</string>
+    <string name="contact_us_bangla">আমাদের সাথে যোগাযোগ করুন</string>
+    <string name="safty_tips_bangla">সুরক্ষা টিপস</string>
+    <string name="contact_us">Contact</string>
+    <string name="btn_confirm_bangla">নিশ্চিত করুন</string>
+    <string name="hint_accoutn_password_bangla">পাসওয়ার্ড লিখুন</string>
+    <string name="destination_mobile_number_bangla">ডেস্টিনেশন মোবাইল</string>
+    <string name="select_bkash_account_bangla">বিকাশ ওয়ালেট নাম্বার</string>
+    <string name="bkash_wallet_bangla">বিকাশ ওয়ালেট নাম্বার</string>
+    <string name="bkash_wallet_title_bangla">বিকাশ ওয়ালেট টাইটেল</string>
+    <string name="select_leave_type_bangla">পাতার ধরণ</string>
+    <string name="slno_bangla">ক্রম</string>
+    <string name="status_date_bangla">স্ট্যাটাস তারিখ</string>
+    <string name="leaf_no_bangla">পাতা নং.</string>
+    <string name="transaction_date_bangla">লেনদেন তারিখ</string>
+    <string name="transaction_type_bangla">লেনদেন ধরণ</string>
+    <string name="account_no_bangla">হিসাব নং.</string>
+    <string name="select_leaves_bangla">পাতা</string>
+    <string name="select_reason_bangla">কারণ</string>
+    <string name="credit_card_registration_bangla">ক্রেডিট কার্ড রেজিস্ট্রেশন</string>
+    <string name="credit_card_registration">Credit Card Registration</string>
+    <string name="visa_card_type_bangla">কার্ডের ধরন</string>
+    <string name="hints_credit_card_number_bangla">কার্ড নাম্বার লিখুন</string>
+    <string name="credit_card_number_bangla">ক্রেডিট কার্ড নাম্বার</string>
+    <string name="credit_card_number">Credit Card Number</string>
+    <string name="credit_card_payment_bangla">ক্রেডিট কার্ড স্টেটমেন্ট</string>
+    <string name="credit_card_payment">Credit Card Statement</string>
+    <string name="statement_date_bangla">স্টেটমেন্ট তারিখ</string>
+    <string name="payment_date_bangla">পেমেন্ট তারিখ</string>
+    <string name="merchant_detail_merchant_name_bangla">মার্চেন্ট নাম</string>
+    <string name="merchant_account_no_bangla">মার্চেন্ট হিসাব নং.</string>
+    <string name="merchant_city_bangla">শহর</string>
+    <string name="shadhin_card_number_bangla">স্বাধীন কার্ড নাম্বার</string>
+    <string name="payee_id_bangla">পে আইডি</string>
+    <string name="payoneer_account_balance_bangla">পেওনিয়ার হিসাব ব্যালেন্স</string>
+    <string name="free_bangla">ফী</string>
+    <string name="payoneer_terms_privacy_for_payment_bangla"><![CDATA[আমি বুঝতে পারি যে আমি এই অ্যাপের মাধ্যমে ব্যাংক এশিয়ায় আমার অ্যাকাউন্ট / কার্ডে এই পরিমাণটি স্থানান্তর করতে আমার অ্যাকাউন্টে ডেবিট করছি.]]></string>
+    <string name="hints_payee_id_bangla">পে আইডি লিখুন</string>
+    <string name="hints_shadhin_card_number_bangla">স্বাধীন কার্ড নাম্বার লিখুন</string>
+    <string name="payoneer_description_bangla">বিস্তারিত</string>
+    <string name="virtual_amount_bangla">ভার্চুয়াল এমাউন্ট</string>
+    <string name="audit_id_bangla">অডিট আইডি</string>
+    <string name="usd_amount_bangla">ইউএসডি এমাউন্ট</string>
+    <string name="bdt_amount_bangla">বিডিটি এমাউন্ট</string>
+    <string name="rate_bangla">দাম</string>
+    <string name="tc_bangla">টিসি</string>
+    <string name="Transaction_status_bangla">ট্রানসাকশান স্টেটাস</string>
+    <string name="effective_date_bangla">কার্যকর তারিখ</string>
+    <string name="select_destinaton_account_bangla">সিলেক্ট ডেস্টিনেশন হিসাব</string>
+    <string name="log_out_bangla">লগআউট</string>
+    <string name="title_home_bangla">হোম</string>
+    <string name="title_notifications_bangla">নোটিফিকেশন্স</string>
+    <string name="title_account_bangla">হিসাব</string>
+    <string name="title_setting_bangla">সেটিংস</string>
+    <string name="title_branch_location">Branch Location</string>
+    <string name="i_agreed_with">I agreed with</string>
+    <string name="i_agreed_with_bangla">আমি একমত</string>
+    <string name="enter_account_number">Enter Account Number</string>
+    <string name="enter_account_number_bangla">হিসাব নং. লিখুন</string>
+    <string name="enter_amount_limit">Enter Amount Limit</string>
+    <string name="enter_amount_limit_bangla">এমাউন্ট লিমিট লিখুন</string>
+    <string name="card_non">Card No</string>
+    <string name="card_non_hint">Enter Card Number</string>
+    <string name="card_non_hint_bangla">কার্ড নাম্বার লিখুন</string>
+    <string name="card_non_bangla">কার্ড নং</string>
+    <string name="card_title">Card Title</string>
+    <string name="card_title_bangla">কার্ড শিরোনাম</string>
+    <string name="hint_card_no">Enter Card No</string>
+    <string name="hint_card_no_bangla">কার্ড নং লিখুন</string>
+    <string name="hint_card_title">Enter Card Title</string>
+    <string name="hint_card_title_bangla">কার্ড শিরোনাম লিখুন</string>
+    <string name="select_branch_name_bangla">সিলেক্ট ব্রাঞ্চ নাম</string>
+    <string name="enter_credit_number">Enter Credit Number</string>
+    <string name="select_bank_bangla">সিলেক্ট ব্যাংক নাম</string>
+
+
+    <!---Log out -->
+    <string name="log_out_title_bagnla">"আমাদের স্মার্ট অ্যাপ এর সহযোগিতা নেওয়ার জন্য ধন্যবাদ। আপনি কি লগ আউট করতে চাচ্ছেন?"</string>
+    <string name="log_out_ok_bagnla"> হ্যাঁ </string>
+    <string name="log_out_cancel_bagnla"> না </string>
+    <string name="enter_bakash_no_title">Enter Bkash Account No/Title</string>
+    <string name="enter_bakash_no_title_bangla">বিকাশ অ্যাকাউন্ট নং / শিরোনাম লিখুন</string>
+
+    <string name="enter_month_title">Enter the name of the Month</string>
+    <string name="enter_month_title_bangla">মাসের নাম লিখুন</string>
+
+
+    <string name="enter_branch_title_bangla">ব্রাঞ্চ নাম লিখুন</string>
+    <string name="enter_branch_title">Enter Branch Name</string>
+    <string name="enter_atm_title_bangla">এটিএম লোকেশন লিখুন</string>
+    <string name="enter_atm_title">Enter ATM Location</string>
+    <string name="remember_user_id">Remember User ID</string>
+    <string name="remember_user_id_bangla">ইউজার আইডি মনে রাখুন</string>
+    <string name="verify_bangla">যাচাই করুন</string>
+    <string name="verification_bangla">একটি যাচাইকরণ কোড আপনার মোবাইল এবং ইমেইলে প্রেরণ করা হয়েছে</string>
+    <string name="next_bangla">পরবর্তী</string>
+
+
+    <!--End Bangla-->
+    <string name="terms_english">
+  \n
+To protect your sensitive data please complete the Two-Factor Authentication (2FA) process. It will add a security layer – besides using user id and password.
+\n
+
+A verification code (OTP) will be sent to your trusted device or phone number. This verification code is different from your Internet banking/SMART App Password.
+\n\n
+
+<b>Please follow the below mentioned steps:</b>\n
+•	Click next button.\n
+•	OTP will be received via SMS &amp; Email.\n
+•	Insert OTP in titled field.\n
+•	Press SUBMIT button to complete Verification process.\n
+•	Then you will be able to Log in to Bank Asia SMART App.\n
+
+</string>
+
+    <string name="terms_english_bangla">
+  \n
+আপনার সংবেদনশীল তথ্য সুরক্ষিত রাখতে দয়া করে দ্বি-স্থর প্রমাণীকরণ (2FA ) প্রক্রিয়াটি সম্পূর্ণ  করুন। এটি আপনার ইউজার আইডি এবং পাসওয়ার্ডের পাশাপাশি আরেকটি সুরক্ষা স্তর যুক্ত করবে।
+\n
+আপনার বিশ্বস্ত ডিভাইস বা ফোন নম্বরটিতে একটি যাচাইকরণ কোড (ওটিপি) প্রেরণ করা হবে। এই যাচাইকরণ কোডটি আপনার ইন্টারনেট ব্যাংকিং/স্মার্ট অ্যাপ পাসওয়ার্ডের থেকে ভিন্ন।
+\n\n
+
+<b>নীচে উল্লিখিত পদক্ষেপগুলি অনুসরণ করুন: </b>\n
+•	পরবর্তী বাটন এ ক্লিক করুন।\n
+•	ওটিপি এসএমএস এবং ইমেলের মাধ্যমে পাঠানো হবে।\n
+•	নির্ধারিত স্থানে ওটিপি প্রবেশ করুন। \n
+•	যাচাইকরণের প্রক্রিয়াটি সম্পূর্ণ করতে সাবমিট বাটন এ ক্লিক করুন।\n
+•	এরপরে আপনি ব্যাংক এশিয়া স্মার্ট অ্যাপে লগইন করতে সক্ষম হবেন।\n
+
+</string>
+
+
+    <string name="accept_text"><![CDATA[Acceptance Terms & conditions]]></string>
+    <string name="verification"><![CDATA[A verification code will send to your mobile & email.]]></string>
+    <string name="verify">Verify</string>
+    <string name="security_checking">User Verification</string>
+    <string name="title_activity_display_atm_maps">Map</string>
+    <string name="title_activity_atm_maps">Map</string>
+    <string name="title_activity_display_branch_maps">Map</string>
+    <string name="limit">Limit</string>
+    <string name="amount_limit">Amount Limit</string>
+    <string name="destinaton_account">Destination Account</string>
+    <string name="search_destinaton_account">Search Destination Account</string>
+    <string name="quick_search">Quick Search</string>
+    <string name="enter_account_title_or_account_no">Enter Account Title or Account No</string>
+    <string name="address">Address</string>
+    <string name="address_bangla">ঠিকানা</string>
+    <string name="email">Email</string>
+    <string name="email_bangla">ইমেইল</string>
+    <string name="customer_care">Customer Care</string>
+    <string name="customer_care_bangla">কাস্টমার কেয়ার</string>
+    <string name="save_to_gallery">Save To Gallery</string>
+    <string name="save_to_gallery_bangla">সেইভ টু গ্যালারি</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="update_version">New version is Available</string>
+    <string name="update_version_content">Please update app to new version for using new features.</string>
+    <string name="dialog_skip">Later</string>
+    <string name="update_version_dialog_update">Update</string>
+    <string name="details">Details</string>
+    <string name="recent_contact">Recent Recharge</string>
+    <string name="recent_contact_bangla">সাম্প্রতিক রিচার্জ</string>
+    <string name="all_contacts">All Contacts</string>
+    <string name="all_contacts_bangla">সব কন্টাক্টস</string>
+    <string name="qr_message">You Enter a wrong Qr Code, Please Scan a Valid QR Code</string>
+    <string name="qrcodeinvalid">Invalid QR Code</string>
+    <string name="bangla">Bangla</string>
+    <string name="bangla_bangla">বাংলা</string>
+    <string name="english">English</string>
+    <string name="english_bangla">ইংরেজী</string>
+    <string name="please_select_language">Please Select Language</string>
+    <string name="please_select_language_bangla">অনুগ্রহ করে ভাষা নির্বাচন করুন</string>
+    <string name="enter_name_mobile_no">Enter Name/Mobile No</string>
+    <string name="enter_name_mobile_no_bangla">মোবাইল নম্বর অথবা শিরোনাম লিখুন</string>
+    <string name="enter_branch_name_and_search">Enter Branch Name and Search</string>
+    <string name="enter_bank_name_and_search">Enter Bank Name and Search</string>
+    <string name="branch_name_search">Branch Name Search</string>
+    <string name="branch_name_search_bangla">ব্রাঞ্চ নাম লিখুন এবং অনুসন্ধান করুন</string>
+    <string name="bank_name_search">BANK Name Search</string>
+    <string name="bank_name_search_bangla">ব্যাংক নাম লিখুন এবং অনুসন্ধান করুন</string>
+    <string name="select_year">Select Year</string>
+    <string name="total_payment_bdt">Total Payment (BDT)</string>
+    <string name="organization_name">Organization Name</string>
+    <string name="palli_bidyut">Palli Bidyut</string>
+    <string name="sms_a_c_number">SMS A/C Number</string>
+    <!--    <string name="bill_amount_bdt">Bill Amount (BDT)</string>-->
+    <string name="payment_information">Payment Information</string>
+    <string name="bill_information">Bill Information</string>
+    <string name="payment_gateway">Payment Gateway</string>
+    <string name="paywell">PayWell</string>
+    <string name="registered_mobile">Registered Mobile</string>
+    <string name="mm_name">MM Name</string>
+    <string name="mm_a_c_number">MM A/C Number</string>
+    <string name="paid_to_organization_bdt">Paid to Organization (BDT)</string>
+    <string name="service_charge_bdt">Service Charge (BDT)</string>
+    <string name="save_invoice">Save Invoice</string>
+    <string name="bill_amount_bdt">Bill Amount (BDT)</string>
+    <string name="bill_type">Bill Type</string>
+    <string name="bill_date">Bill Date</string>
+    <string name="bill_no">Bill No</string>
+    <string name="vat_amount_bdt">Vat Amount (BDT)</string>
+    <string name="this_is_mobile_generated_invoice">This is mobile generated Invoice.</string>
+    <string name="comission">Commission</string>
+    <string name="transaction_id">Transaction ID</string>
+    <string name="casa">CASA</string>
+    <string name="casa_bangla">সঞ্চয়ী</string>
+    <string name="fdr_dps">FDR/DPS</string>
+    <string name="fdr_dps_bangla">এফডিআর/ডিপিএস</string>
+    <string name="loan">Loan</string>
+    <string name="loan_bangla">ঋণ</string>
+    <string name="credit_card">Credit Card</string>
+    <string name="credit_card_bangla">ক্রেডিট কার্ড</string>
+    <string name="active">Active</string>
+    <string name="default_network_error_message">Network Error! Please try Again.</string>
+    <string name="default_http_error_message">Connection Time Out Error! Please Try Again.</string>
+    <string name="default_unexpected_error_message">The server can not find the requested resource</string>
+    <string name="sur_charge">Sur Charge</string>
+    <string name="sur_charge_bangla">সার চার্জ</string>
+    <string name="input_pass_text">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!#$\'()*+-.:=?@[]^_`{|}~</string>
+    <string name="input_account_title">abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ./- </string>
+    <string name="input_bank_branch">abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ./- 0123456789</string>
+    <string name="bank_asia">Bank Asia Ltd</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="open_account">Open Account</string>
+    <string name="forget_password_instruction">
+        \n\n  1.1 Please call contact center to get pin code to change password
+        \n\n  1.2 Contact center number : 16205
+        \n\n  1.3 You will get a pin code if you call to contact center.
+    </string>
+    <string name="forget_password_title">Forget Password</string>
+
+    <string name="forget_password_instruction_ban">
+        \n\n  1.1 পাসওয়ার্ড পরিবর্তনের জন্য পিন কোড পেতে কল সেন্টারে যোগাযোগ করুন
+        \n\n  1.2 যোগাযোগ নম্বর: ১৬২০৫
+        \n\n  1.3 যদি আপনি যোগাযোগ  কল করেন তাহলে একটি পিন কোড পাবেন
+    </string>
+    <string name="forget_password_have_you_called">Have you called</string>
+    <string name="forget_password_contact">contact center(16205)?</string>
+    <string name="forget_password_pin">PIN</string>
+    <string name="forget_password_retype_new_passwprd">Re-type New Password</string>
+    <string name="forget_password_success_message">Your password reset successfull </string>
+    <string name="forget_password_success_message_bangla">আপনার পাসওয়ার্ড সফলভাবে পরিবর্তন হয়েছে" </string>
+
+    <string name="login_button_forget_password">Forget Password</string>
+    <string name="login_button_forget_password_bangla">ফরগেট পাসওয়ার্ড</string>
+    <string name="btn_yes">YES</string>
+    <string name="btn_no">NO</string>
+
+
+    <string name="terms_privacy_bangla1">
+          \n \n \u25CF সঠিকভাবে রেজিস্ট্রেশন এর মাধ্যমেই কেবলমাত্র আপনি এই অ্যাপটি ব্যবহার করতে পারবেন। রেজিট্রেশন সম্পূর্ণ করার পরেই শুধুমাত্র অ্যাপটি চালু হবে।
+
+        \n \n \u25CF আপনি আপনার অর্থ নিজের একাউন্ট থেকে অন্য যেকোনো একাউন্ট এ পাঠাতে পারবেন ( অর্থ স্থানান্তরের জন্যে আপনি যেকোন ব্যাংক এশিয়ার একাউন্ট যুক্ত করতে পারেন)।
+
+       \n   \n \u25CF আপনি দিনে সর্বোচ্চ ২, ০০,০০০/- টাকা (প্রচলিত/ইসলামী) এবং ৫০,০০০/- টাকা (এজেন্ট ব্যাংকিং) এবং প্রতিবারে ৫০,০০০/-টাকা (ব্রাঞ্চ ব্যাংকিং) এবং ২০,০০০/- টাকা ( এজেন্ট ব্যাংকিং) করে পাঁচ বারে পাঠাতে পারবেন।(শর্ত সাপেক্ষে)।
+
+       \n   \n \u25CF আপনি বিকাশ ওয়ালেটে সর্বাধিক ৩০,০০০/-টাকা এবং দিনে ৫ বার স্থানান্তর করতে পারবেন।
+
+        \n  \n \u25CF আপনি আপনার একাউন্ট থেকে ইউটিলিটি বিল ( ডেসকো/ওয়াসা/ডিপিডিসি) প্রদান করতে পারবেন।
+
+        \n  \n \u25CF রেজিস্ট্রেশন সম্পূর্ণ করার পর অ্যাপটি ব্যবহার উপযোগী এমন একটি পাসওয়ার্ড বাছাই করুন এবং অবশ্যই পাসওয়ার্ডটি গোপনীয়তার সাথে সংরক্ষণ করুন। এই পাসওয়ার্ডটি কোনোভাবেই কারো সাথে বিনিময়যোগ্য নয়। আপনার পাসওয়ার্ড কর্তৃক সংঘটিত সকল লেনদেনের দায়ভার আপনার এবং ব্যাংক কোনোভাবেই দায়বদ্ধ থাকবেনা।
+
+        \n  \n \u25CF আপনি এই মর্মে অঙ্গীকার প্রদান করবেন যে যাবতীয় প্রদানকৃত তথ্য সঠিক ও নির্ভুল এবং সকল প্রকার অযাচিত তথ্য প্রদান করা থেকে বিরত থাকবেন।
+
+         \n \n \u25CF আপনার মোবাইল/স্মার্ট ডিভাইসটি যে কোনো প্রকার ভাইরাস কিংবা ধ্বংসাত্মক জাতীয় কোনো বস্তু /কর্তৃক ক্ষতিগ্রস্ত কিংবা তৃতীয় কোনো ব্যাকতি \'বস্তু কর্তৃক তথ্য পরিবর্তন হলে এর সম্পূর্ণ দায়ভার আপনার ।
+
+         \n \n \u25CF এই অ্যাপটিব্যবহারের ক্ষেত্রে বাংলাদেশ ব্যাংকের  /এন্টি মানি লন্ডারিং এক্ট  \' এবং যথারীতি ব্যাংকের নিজস্ব বিধি নিষেধ প্রযোজ্য।
+
+         \n \n \u25CF ব্যাংক এশিয়া এই অ্যাপটি সম্পর্কিত যেকোনো নিয়ম ও বিধি -নিষেধ পরিবর্তন , পরিবর্ধন ও পরিমার্জনের ক্ষমতা সংরক্ষন করে।
+
+         \n \n \u25CF এছাড়াও কোনোধরনের নির্দেশনা ব্যতিরেকেই ব্যাংক এশিয়া যেকোনো ধরণের সেবাসমূহ সংযোজন ও বিয়োজনের ক্ষমতাও সংরক্ষণ করে।
+
+        \n \n \u25CF এই অ্যাপ্লিকেশনটিতে কন্টাক্টস, অবস্থান, টেলিফোনের অনুমতি ব্যবহার হতে পারে এবং ক্রেডিট কার্ডের জন্য স্টোরেজ ব্যবহার হতে পারে।
+
+    </string>
+
+    <string name="terms_privacy_bangla">
+       <![CDATA[
+    <html>
+    <head>
+    <style type=\"text/css\">@font-face {font-family: MyFont;src: url(\"file:///android_asset/fonts/SolaimanLipi_20-04-07.ttf")}body {font-family: MyFont;font-size: medium;text-align: justify;}
+    </style>
+    </head>
+
+    <body>
+    <h4>অনুগ্রহ  করে বিধি - নিষেধ এবং শর্তাবলীযত্ন সহকারে পড়ুন </h4>
+     <ul>
+        <li>সঠিকভাবে রেজিস্ট্রেশন এর মাধ্যমেই কেবলমাত্র আপনি এই অ্যাপটি ব্যবহার করতে পারবেন। রেজিট্রেশন সম্পূর্ণ করার পরেই শুধুমাত্র অ্যাপটি চালু হবে।</li>
+        <li>আপনি আপনার অর্থ নিজের একাউন্ট থেকে অন্য যেকোনো (পূর্ব নির্ধারণকৃত ) একাউন্ট এ পাঠাতে পারবেন।( শর্ত সাপেক্ষে)</li>
+        <li>আপনি দিনে সর্বোচ্চ ১,৫০,০০০&#47;&#45; টাকা (ব্রাঞ্চ ব্যাংকিং ) এবং ২০,০০০&#47;&#45; টাকা (এজেন্ট ব্যাংকিং) এবং প্রতিবারে ৫০,০০০&#47;&#45; টাকা (ব্রাঞ্চ ব্যাংকিং ) এবং ১০,০০০&#47;&#45; টাকা (এজেন্ট ব্যাংকিং) করে তিন বারে পাঠাতে পারবেন।( শর্ত সাপেক্ষে)</li>
+
+        <li>এই অ্যাপটি ব্যবহার করে আপনি আপনার ইউটিলিটি বিল(ডেসকো  &#47; ডেসা ) পরিশোধ করতে পারবেন।( শর্ত সাপেক্ষে)</li>
+        <li>রেজিস্ট্রেশন সম্পূর্ণ করার পর অ্যাপটি ব্যবহার উপযোগী এমন একটি পাসওয়ার্ড বাছাই করুন এবং অবশ্যই পাসওয়ার্ডটি গোপনীয়তার সাথে সংরক্ষণ করুন। এই পাসওয়ার্ডটি কোনোভাবেই কারো সাথে বিনিময়যোগ্য নয়। আপনার পাসওয়ার্ড কর্তৃক সংঘটিত সকল লেনদেনের দায়ভার আপনার এবং ব্যাংক কোনোভাবেই দায়বদ্ধ থাকবেনা।</li>
+        <li>আপনি এই মর্মে অঙ্গীকার প্রদান করবেন যে যাবতীয় প্রদানকৃত তথ্য সঠিক ও নির্ভুল এবং সকল প্রকার অযাচিত তথ্য প্রদান করা থেকে বিরত থাকবেন।</li>
+        <li>আপনার মোবাইল&#47;স্মার্ট ডিভাইসটি যে কোনো প্রকার ভাইরাস কিংবা ধ্বংসাত্মক জাতীয় কোনো বস্তু &#47;কর্তৃক ক্ষতিগ্রস্ত কিংবা তৃতীয় কোনো ব্যাকতি &#39;বস্তু কর্তৃক তথ্য পরিবর্তন হলে এর সম্পূর্ণ দায়ভার আপনার ।</li>
+        <li>এই অ্যাপটিব্যবহারের ক্ষেত্রে বাংলাদেশ ব্যাংকের  &#47;এন্টি মানি লন্ডারিং এক্ট  &#39; এবং যথারীতি ব্যাংকের নিজস্ব বিধি নিষেধ প্রযোজ্য।</li>
+        <li>ব্যাংক এশিয়া এই অ্যাপটি সম্পর্কিত যেকোনো নিয়ম ও বিধি -নিষেধ পরিবর্তন , পরিবর্ধন ও পরিমার্জনের ক্ষমতা সংরক্ষন করে।</li>
+        <li>এছাড়াও কোনোধরনের নির্দেশনা ব্যতিরেকেই ব্যাংক এশিয়া যেকোনো ধরণের সেবাসমূহ সংযোজন ও বিয়োজনের ক্ষমতাও সংরক্ষণ করে।</li>
+      </ul>
+    </body>
+    </html>
+   ]]>
+</string>
+
+    <!--About Us-->
+    <string name="smart_app_details">স্মার্ট অ্যাপ (সংস্করণ 1.1.0) ব্যাংক এশিয়ার গ্রাহকদের জন্য অতি দ্রুত, ঝামেলা মুক্ত এবং সুরক্ষিত একটি মোবাইল ব্যাংকিং অ্যাপ্। এই অ্যাপ্ এর মাধ্যমে ব্যাংক এশিয়া ইন্টারনেট ব্যাংকিং ব্যবহারকারীগণ হিসাবের স্থিতি , হিসাবের বিবরণ, ফান্ড ট্রান্সফার &#47; ই এফ টি , ইউটিলিটি বিল পেমেন্ট, মোবাইল টক-টাইম রিচার্জ ইত্যাদি সেবাসমূহ গ্রহণ করতে পারবেন। অ্যাপ স্টোর &#47; প্লে স্টোর থেকে এই অ্যাপটি ডাউনলোড করুন এবং হোম পেজ থেকে নিবন্ধন প্রক্রিয়াটি সম্পূর্ণ করে লগ ইন করার জন্য আপনার ব্যাংক এশিয়ার ইন্টারনেট ব্যাংকিং এর ইউজার আইডি ও পাসওয়ার্ড ব্যবহার করুন । এই অ্যাপটি গ্রাহকদের যেকোনো অবস্থান নিবির্শেষে দিনরাত (২৪&#47;৭) ব্যাংকিং সেবা প্রদান করতে সক্ষম।</string>
+    <string name="customer_care_hote_line_details">আপনার যে কোনো মতামত থাকলে অনুগ্রহ করে ইমেইল এর মাধ্যমে আমাদেরকে জানান : adc.ba@bankasia-bd.com কাস্টমার কেয়ার হটলাইন (২৪&#47;৭) : ১৬২০৫, ০৯৬১৭০১৬২০৫ ইমেইল : contact.center@bankasia-bd.com</string>
+    <string name="bangla_safe_type">এই অ্যাপটি ব্যবহারের মাধ্যমে ব্যাংকিং এবং আর্থিক লেনদেন এখন আপনার হাতের
+
+নাগালে । এই অ্যাপটির মাধ্যমে নিরাপদ লেনদেনের ক্ষেত্রে কিছু সতর্কতা নিম্নে দেয়া হলো : \n
+
+• আপনার মোবাইল ফোনটি ব্যবহার করার জন্য একটি গোপন পাসওয়ার্ড সেট
+
+করুন। \n
+
+• জাঙ্ক ম্যাসেজ এবং চেইন ম্যাসেজগুলিকে নিয়মিত মুছে ফেলুন । \n
+
+• নিশ্চিত না হয়ে ম্যাসেজ এর মধ্যে প্রদানকৃত কোনো অপরিচিত ইউআরএল
+
+অনুসরণ করবেন না। \n
+
+• পূর্বে ব্যাবহৃত ব্রাউজিং এর হিস্টরি মুছে ফেলুন \n
+
+• মেমোরি থেকে অস্থায়ী ফাইলগুলো সরিয়ে রাখুন যাতে আপনার অ্যাকাউন্ট নম্বর
+
+এবং অন্যান্য সংবেদনশীল তথ্য থাকতে পারে। \n
+
+• মোবাইল ফোনে স্বয়ংক্রিয়ভাবে ইউজার আইডি বা পাসওয়ার্ড সংরক্ষণ করবেন না \n
+
+• ওয়্যারলেস ডিভাইসগুলি যেমন ওয়াইফাই , ব্লু-টুথ এবং জিপিএস যখন ব্যবহার
+
+করা হয় না তখন বন্ধ রাখুন । \n
+
+• অ্যাপটি শুধুমাত্র অ্যাপল আইটিউনস, অ্যান্ড্রয়েড মার্কেটপ্লেস, গুগল প্লে স্টোর
+
+এবং ব্ল্যাকবেরি অ্যাপ ওয়ার্ল্ডের মত অফিসিয়াল অ্যাপ স্টোর থেকে ডাউনলোড
+
+করুন। \n
+
+• আপনার লেনদেন সম্পন্ন হওয়ার পর অন্য কোনো সেবা গ্রহণ করতে না চাইলে
+
+যত দ্রুত সম্ভব নিরাপত্তার স্বার্থে অনলাইন অ্যাপটি থেকে লগ আউট করুন। \n
+
+• যদি আপনার মোবাইল ফোনটি হারিয়ে ফেলেন, তাহলে মোবাইল অ্যাপটি
+
+নিষ্ক্রিয়/অকার্যকর করার জন্য তৎক্ষণাৎ(২৪/৭) হটলাইন ১৬২০৫ , ০৯৬১৭০১৬২০৫ এ কল
+
+করুন।</string>
+
+
+    <!--Terms condiction-->
+
+    <string name="terms_title">Conditions</string>
+
+    <string name="bangla_terms_conditon">
+      <b> <u> সতর্কতা :</u></b> \n\n
+        এই অ্যাপটি ব্যাংক এশিয়ার নিজস্ব ডোমেইন এর অন্তর্ভুক্ত যা আর্থিক লেনদেন যোগাযোগের জন্য প্রযোজ্য। এই এপটি ব্যবহার
+
+করার পূর্বে শর্তাবলী ভালোভাবে পড়ুন।এই অ্যাপটি ব্যবহার করার অর্থই হস্ছে আপনি সমস্ত শর্তাবলী মেনেই রেজিস্ট্রেশন সম্পূর্ণ করেছেন।
+
+আপনি যদি উপরোক্ত শর্তাবলীর সাথে একমত না হন তাহলে অনুগ্রহ করে এই অ্যাপটি ব্যবহার করবেন না। এই নোটিশ টি &quot;নেট সাপোর্ট টীম &quot;
+
+এর মাদ্ধমে জারি করা হয়েছে।\n\n
+
+<b><u>১.  সাধারণ শর্তাবলী :</u></b>\n\n
+
+১.১ আপনি অঙ্গীকার করছেন যে ইন্টারনেট বেইজ এই অ্যাপটি যেকোনো সময় সম্পূর্ণ বা আংশিকভাবে পরিবর্তিত হতে পারে । এছাড়াও
+
+অপ্রত্যাশিত ভাবে হার্ডওয়্যার বা সফ্টওয়্যার আপগ্রেড, যোগাযোগ সংযোগ সমস্যা বা অন্য কোন পরিবর্তিত পরিস্থিতিতে নিখুঁত সেবা প্রদানে
+
+ব্যার্থতার জন্য এই অ্যাপটি দায়ী থাকবে না ।\n\n
+
+১.২ আপনার নিবন্ধন প্রক্রিয়া সম্পূর্ণ করার পরেই কেবলমাত্র এপটি ব্যবহার উপযোগী হবে ।\n\n
+
+১.৩ এই অ্যাপটি ব্যবহার করার অর্থই হচ্ছে আপনি সমস্ত নির্দেশাবলীর সাথে একমত বলে মনে করা হবে । আপনি যদি এই
+
+নির্দেশাবলীর সাথে একমত না হন তাহলে আপনাকে এই অ্যাপটির ব্যবহার অনতিবিলম্বে বন্ধ করতে হবে।\n\n
+
+১.৪ এই অ্যাপটির আইনি শর্তাবলী যেকোনো সময় পরিবতিত ,পরিমার্জিত বা পরিবর্ধিত হতে পারে।\n\n
+
+<b><u>২. ইউজার হবার শর্ত: </u></b>\n\n
+
+এই অ্যাপটি কোনো নাবালক ও শিশুদের (১৮ বছরের নিচে ) ব্যাবহারের জন্য অনুমোদিত নয় । আপনি যদি 18
+
+বছরের কম বয়সী হন, তাহলে আপনি এই এপটি একজন আইনী অভিভাবকের তত্ত্বাবধানে ব্যবহার করতে পারেন।\n\n
+
+৩.<b><u> রেজিস্ট্রেশন&#47; নিবন্ধীকরণ : </u></b>\n\n
+
+রেজিস্ট্রেশন সম্পূর্ণ করার পর অ্যাপটি ব্যবহার উপযোগী এমন একটি পাসওয়ার্ড বাছাই করুন এবং অবশ্যই পাসওয়ার্ডটি
+
+গোপনীয়তার সাথে সংরক্ষণ করুন। এই পাসওয়ার্ডটি কোনোভাবেই কারো সাথে বিনিময়যোগ্য নয়। আপনার পাসওয়ার্ড কর্তৃক
+
+সংঘটিত সকল লেনদেনের দায়ভার আপনার উপর বর্তাবে| ব্যাংক কোনোভাবেই এর দায়ভার বহন করবেনা।\n\n
+
+<b><u>৪. পরিবর্তনশীল বিষয়সমূহ : </u></b>\n\n
+
+ ৪.১ এই অ্যাপটি কোনোরকম পূর্ব নির্দেশনা ব্যতিরেকেই যেকোনো ধরণের সেবা সংকোচন বা পরিবর্তনের ক্ষমতা সংরক্ষণ
+
+করে |\n\n
+
+  ৪.২ এই অ্যাপটি আপনাকে যেকোনো সেবা প্রদান করার জন্য বাধ্য নয় । কোনও কারণে গ্রাহকের যেকোনো সেবা স্থগিত করার
+
+ক্ষমতাও সংরক্ষণ করে|\n\n
+
+৪.৩ ব্যাংক এশিয়া এই অ্যাপ সম্পর্কিত যেকোনো নিয়ম ও বিধি -নিষেধ পরিবর্তন , পরিবর্ধন ও পরিমার্জনের ক্ষমতা
+
+সংরক্ষন করে।\n\n
+
+<b><u> ৫.তথ্য এবং ইমেইল পাঠানো কিংবা জমাদান প্রসঙ্গে : </u></b>\n\n
+
+ ৫.১ আপনি এই মর্মে অঙ্গীকার প্রদান করছেন যে যাবতীয় প্রদানকৃত তথ্য সঠিক ও নির্ভুল এবং সকল প্রকার অযাচিত তথ্য প্রদান থেকে
+
+বিরত থাকবেন। আপনার মোবাইল &#47; স্মার্ট ডিভাইস টি যেকোনো প্রকার ভাইরাস কিংবা ধ্বংসাত্মক জাতীয় কোনো বস্তু কর্তৃক ক্ষতিগ্রস্ত
+
+কিংবা তৃতীয় কোনো ব্যাক্তি বা বস্তু কর্তৃক তথ্য পরিবর্তিত হলে এর সম্পূর্ণ দায়ভার আপনার।\n\n
+
+ ৫.২ আপনি এই অ্যাপটির হ্যাকিং বা জালিয়াতিমূলক কোনো অপব্যবহার&#47;কার্যকলাপ করতে পারবেন না|\n\n
+
+ ৫.৩ এই অ্যাপটির ব্যবহার আইন প্রয়োগকারী কর্তৃপক্ষ বা আদালতের আদেশের সাথে সম্পৃক্ত হবে যাতে এই অ্যাপ ব্যবহারের কোনো শর্ত
+
+ভঙ্গন বা কোনও অযাচিত তথ্য পোস্ট করা বা ওয়েবসাইটটির অপব্যবহার করা বা অন্য কোনও কারণে অনুচ্ছেদ 5 5.2 প্রযোজ্য হবে |\n\n
+
+৫.৪ আপনি যদি এই শর্তাবলীর অনুচ্ছেদ 5.1 এবং 5.2 এর মধ্যে অন্তর্ভুক্ত কোনও শর্ত ভঙ্গ করেন তবে প্রদত্ত সেবা বাতিল করা হবে।\n\n
+
+৫.৫ অ্যাপটির মাধ্যমে আপনার দ্বারা ব্যাবহৃত তথ্য কোন এজেন্সি, নিয়োগকর্তা বা অন্য কোনও তৃতীয় পক্ষের যে কোনও সংস্থা,
+
+নিয়োগকর্তা বা অন্য কোনও তৃতীয় পক্ষের কাছে হস্তান্তরের দায়বদ্ধতা গ্রহণ করবেনা।\n\n
+
+<b><u> ৬. সংযুক্তি : </u></b>\n\n
+
+৬.১ এই অ্যাপটি অন্য কোনো অ্যাপকে প্রতিনিধিত্ব করেনা কিংবা অন্য কোনো অ্যাপও এই অ্যাপ এর মাধ্যমে উপস্থাপিত হয়না।\n\n
+
+৬.২ এই অ্যাপ থেকে তৃতীয় পক্ষের ওয়েবসাইট&#47; অ্যাপ এর সংযুক্ত হলে সম্পূর্ণ দায়ভার আপনার।\n\n
+
+৬.৩ অ্যাডমিনিস্ট্রেটর এর লিখিত অনুমতি ছাড়া এই অ্যাপটি অন্য কোনো ওয়েবসাইট&#47;অ্যাপ এ লিঙ্ক করা যাবেনা ।\n\n
+
+<b><u> ৭. কপিরাইট : </u></b>\n\n
+
+৭.১ এই এই অ্যাপ এর সম্পূর্ণ বিষয়বস্তু কপিরাইট দ্বারা সুরক্ষিত।\n\n
+
+৭.২ আপনি আপনার ব্যক্তিগত ব্যবহারের জন্য এই অ্যাপটি শুধুমাত্র তথ্য ডাউনলোড করতে পারেন অন্যথায় অ্যাপ অ্যাডমিনিস্ট্রেটর
+
+অনুমতি ব্যতীত কোনও কপিরাইট, পুনঃবিন্যস্ততা, পুনঃসরণ, প্রকাশনা বা বাণিজ্যিককরণ করা যাবেনা।\n\n
+
+ ৭.৩ আপনি যদি এই আইনি নোটিশের কোনও শর্ত ভঙ্গ করেন, তাহলে এই অ্যাপটি ব্যবহার আপনার জন্য স্বয়ংক্রিয়ভাবে বন্ধ হয়ে যাবে ।\n\n
+
+<b><u> ৮. ভাইরাস : </u></b>\n\n
+
+আপনার মোবাইল&#47;স্মার্ট ডিভাইসটি যে কোনো প্রকার ভাইরাস কিংবা ধ্বংসাত্মক জাতীয় কোনো বস্তু কর্তৃক ক্ষতিগ্রস্ত কিংবা
+
+তৃতীয় কোনো ব্যাকতি&#47;বস্তু কর্তৃক তথ্য পরিবর্তন হলে এর সম্পূর্ণ দায়ভার আপনার ।\n\n
+
+৯. আপনার সরবরাহকৃত তথ্যের ব্যবহার ও সুরক্ষা
+
+এই অ্যাপটি আপনার তথ্যগুলির গোপনীয়তা রক্ষার স্বার্থে তার যুক্তিসঙ্গত প্রচেষ্টাগুলি ব্যবহার করবে ।\n\n
+
+<b><u> ১০. নিজস্ব তথ্য সংরক্ষণ ও তার দায়দায়িত্ব : </u></b>\n\n
+
+নিজস্ব তথ্য সংরক্ষণ ও অনুনোমোদনহীন ব্যবহার দ্বারা ক্ষয়ক্ষতির দায়ভার সম্পূর্ণ আপনার। এই অ্যাপ এর মাধ্যমে তথ্য প্রদান সাপেক্ষে যদি
+
+তার নির্দিষ্ট গন্তব্যে পৌঁছানোর পূর্বে অনুমোদনহীন ব্যবহারকারীর মাধ্যমে ব্যবহার হয়ে থাকে যা আইন বহির্ভুত তার সম্পূর্ণ ক্ষয়ক্ষতি এবং
+
+দায়ভার আপনার। অনুমোদনহীন ব্যবহারজনিত ক্ষয়ক্ষতির দায় এই অ্যাপটি কোনোভাবে গ্রহণ করবেনা।\n\n
+
+<b><u> ১১. দায়বদ্ধতা : </u></b> \n\n
+
+১১.১ এই অ্যাপটি ব্যাবহারকালীন ব্যাক্তিগত আঘাত,মৃত্যু,অবহেলা এবং প্রতারণাজনিত কোনো বিষয় এই শর্তাবলীর অন্তর্ভুক্ত
+
+হবেনা এবং ব্যাংক এর কোনো দায়ভার গ্রহণ করবেন।\n\n
+
+১১.২ আপনার ব্যবহারজনিত ত্রুটির কারনে যদি ব্যাক্তিগত ডিভাইস মেরামত,সফটওয়্যার সংশোধন অথবা তথ্য সরবরাহের
+
+প্রয়োজন পড়ে তবে তার যাবতীয় খরচ&#47;দায়ভার আপনার নিজের।\n\n
+
+<b> <u> ১২. দাবিপত্র : </u></b>\n\n
+
+১২.১ এই অ্যাপটি নিশ্চিত করতে চেষ্টা করে যে এই অ্যাপের সকল তথ্য সঠিক।এই অ্যাপটির সেবা সমূহ, এই অ্যাপের এর কোনো বস্তুর
+
+উপাদান এর সঠিকতা এবং সম্পূর্ণতা নিশ্চিত করেনা। কোনো নোটিশ ছাড়াই যেকোনো সময় এই অ্যাপটিতে পরিবর্তন হতে পারে। এই
+
+অ্যাপটি নিজস্ব কিংবা সেবাসমূহের আপডেট করার জন্য কোনও প্রতিশ্রুতি দেয় না । অনুগ্রহ করে মনে রাখবেন যে আপনি সতর্কতা,
+
+সাধারণ জ্ঞান এবং সচেতনতা অবলম্বন করবেন , কারণ ব্যক্তি বা ব্যক্তির সাথে চুক্তিতে আবদ্ধ হওয়া যাবেনা। সমস্ত ঝুঁকি
+
+মেনে নিয়ে অ্যাপটি ব্যবহারের জন্য আপনি সম্মত। অন্য সমস্যার কারণে সাইটটি বন্ধ থাকলে অ্যাপটি দায়ী হবেনা।\n\n
+
+১২.২ এই অ্যাপটির যে সকল উপাদান কোনো প্রকার শর্ত এবং ওয়ারেন্টির বহির্ভুত সেগুলো বাদে বাকি সব কিছুর উপর
+
+আইনি নোটিশ এর প্রভাব থাকবে।\n\n
+
+১২.৩ কোনো প্রকার প্রাকৃতিক জনিত ক্ষতির জন্য এই অ্যাপটি দায়বদ্ধ হবেনা।\n\n
+
+<b><u> ১৩. শিরোনাম : </u></b>\n\n
+
+সকল শিরোনাম , শর্তাবলী বোঝার সুবিধার্তে দেয়া হয়েছে সেক্ষেত্রে ভিতরের বিষয়বস্তূর সম্প্রসারণে কোনো প্রভাব ফেলবেনা।\n\n
+
+<b><u> ১৪. সরকারি আইন : </u></b>\n\n
+
+এই চুক্তিপত্রটি বাংলাদেশের আইন অনুযায়ী বৈধ বলে গণ্য হবে। আপনার ব্যবহারজনিত কারণে যদি কোনো প্রকার
+
+ক্ষতি&#47;বিরোধ&#47;বিতর্কের সৃষ্টি হয় সেক্ষেত্রে ব্যাংক আইনানুগ ব্যবস্থা গ্রহণের অধিকার সংরক্ষণ করে।
+    </string>
+    <!-- Contact -->
+    <string name="tv_contact_string">
+        <!-- Map Version -->
+        <!-- <integer name="google_play_services_version">4030500</integer> -->
+
+
+        <![CDATA[
+<p><h4>Customer Care HotLine</h4></p>
+<p>Call Center: 16205, +8809617016205</p>
+<p>Email: contact.center@bankasia-bd.com</p>
+]]>
+    </string>
+    <string name="about">About</string>
+    <string name="text_dummy">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+
 </resources>
