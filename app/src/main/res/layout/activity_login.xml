@@ -237,19 +237,18 @@
                                     android:focusable="false"
                                     android:focusableInTouchMode="true"
                                     android:textColorHint="@android:color/black"
-                                    app:hintEnabled="false"
-                                    app:passwordToggleEnabled="true">
+                                    app:hintEnabled="false">
 
 
-                                    <EditText
-                                        android:id="@+id/etUserPass"
+                                    <AutoCompleteTextView
+                                        android:id="@+id/etUserpass"
                                         android:layout_width="match_parent"
                                         android:layout_height="@dimen/login_edit_text_height_base"
                                         android:background="@android:color/transparent"
+                                        android:completionThreshold="1"
                                         android:ems="10"
                                         android:hint="@string/hints_password"
-                                        android:imeOptions="actionDone"
-                                        android:inputType="textPassword"
+                                        android:inputType="text"
                                         android:singleLine="true"
                                         android:textColor="@color/black"
                                         android:textColorHint="@color/hints_login_edittext_color"

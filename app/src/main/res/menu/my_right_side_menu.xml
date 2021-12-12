@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:myapp="http://schemas.android.com/apk/res-auto">
+    <item
+        android:onClick="Menu"
+        android:id="@+id/btnMyMenu"
+        android:icon="@drawable/menu"
+        android:title="Right Side Menu"
+        myapp:showAsAction="always"/>
+</menu>
