@@ -7,16 +7,20 @@
         <entry key="..\:/Android Project/MessManagement/app/src/main/res/drawable-v24/bt_background_rounded_red.xml" value="0.2203125" />
         <entry key="..\:/Android Project/MessManagement/app/src/main/res/drawable-v24/ic_account.xml" value="0.2203125" />
         <entry key="..\:/Android Project/MessManagement/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Project/MessManagement/app/src/main/res/layout/activity_welcome.xml" value="0.2" />
         <entry key="..\:/Android Project/MessManagement/app/src/main/res/layout/cardview.xml" value="0.18" />
         <entry key="..\:/Android Project/MessManagement/app/src/main/res/layout/close_dialog.xml" value="0.1" />
         <entry key="..\:/Android Project/MessManagement/app/src/main/res/layout/content.xml" value="0.1" />
         <entry key="..\:/Android Project/MessManagement/app/src/main/res/layout/content_profile.xml" value="0.1" />
+        <entry key="..\:/Android Project/MessManagement/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Android Project/MessManagement/app/src/main/res/layout/header_welcome.xml" value="0.2" />
         <entry key="..\:/Android Project/MessManagement/app/src/main/res/layout/notice.xml" value="0.1" />
         <entry key="..\:/Android Project/MessManagement/app/src/main/res/layout/send_money.xml" value="0.1" />
         <entry key="..\:/Android Project/MessManagement/app/src/main/res/layout/test_dialog.xml" value="0.1" />
         <entry key="..\:/Android Project/MessManagement/app/src/main/res/layout/test_profile.xml" value="0.1" />
         <entry key="..\:/Android Project/MessManagement/app/src/main/res/layout/user_state_list.xml" value="0.1" />
         <entry key="..\:/Android Project/MessManagement/app/src/main/res/layout/user_txn_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Project/MessManagement/app/src/main/res/layout/welcome.xml" value="0.18611111111111112" />
         <entry key="..\:/Android Project/MessManagement/app/src/main/res/menu/my_right_side_menu.xml" value="0.20416666666666666" />
       </map>
     </option>
