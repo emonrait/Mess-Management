@@ -3,12 +3,16 @@ package com.emon.raihan.messmanagement
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.os.Handler
 import android.view.Menu
 import android.view.MenuItem
 import android.view.View
 import android.widget.ImageView
+import android.widget.Toast
 import androidx.core.view.GravityCompat
 import androidx.drawerlayout.widget.DrawerLayout
+import com.emon.raihan.messmanagement.util.DialogCustom
+import com.emon.raihan.messmanagement.util.DialogCustom.logout
 import com.emon.raihan.messmanagement.util.GlobalVariable
 import com.emon.raihan.messmanagement.util.TextContants
 import com.emon.raihan.messmanagement.view.welcome.Welcome
@@ -22,6 +26,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
     private lateinit var drawerLayout: DrawerLayout
     private lateinit var navigationView: NavigationView
     private lateinit var imageViewHeaderMenuClose: ImageView
+    var doubleBackToExitPressedOnce: Boolean = false
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -211,13 +216,38 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         return true
     }
 
-    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
-        val menuToUse =
-            R.menu.my_right_side_menu
-        val inflater = menuInflater
-        inflater.inflate(menuToUse, menu)
-        return super.onCreateOptionsMenu(menu)
 
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        val inflater = menuInflater
+        inflater.inflate(R.menu.my_right_side_menu, menu)
+        return true
+    }
+
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        val id = item.itemId
+        when (id) {
+//            R.id.logout -> {
+//                DialogCustom.englishcustomLogout(this)
+//            }
+
+        }
+
+        return super.onOptionsItemSelected(item)
+    }
+
+
+    override fun onBackPressed() {
+
+        if (doubleBackToExitPressedOnce) {
+            super.onBackPressed()
+            return
+        }
+
+        this.doubleBackToExitPressedOnce = true
+        Toast.makeText(this, "Please click BACK again to exit", Toast.LENGTH_SHORT).show()
+
+        Handler().postDelayed({ doubleBackToExitPressedOnce = false }, 2000)
 
     }
 }

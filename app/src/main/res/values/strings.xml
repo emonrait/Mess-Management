@@ -1118,4 +1118,72 @@ A verification code (OTP) will be sent to your trusted device or phone number. T
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
+
+    <string name="enter_your_user_id">Enter Your User ID</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="join_with_us">Join With Us</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="login">login</string>
+    <string name="developed_by_emon_raihan">Developed by: Emon Raihan</string>
+    <string name="email_prompt">Choose a Email</string>
+    <string name="payment_prompt">Choose a Payment Mode</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="payment_request_approvel">PAYMENT REQUEST APPROVEL</string>
+    <string name="enter_payment_mode">Enter Payment Mode</string>
+    <string name="your_email">Your Email</string>
+    <string name="edit">EDIT</string>
+    <string name="amount">Amount</string>
+    <string name="txnid">TXNID</string>
+    <string name="emon_raihan">Emon Raihan</string>
+    <string name="mobile_no">Mobile No</string>
+    <string name="_01816028491">01816028491</string>
+    <string name="_0_00_u09f3"> ৳</string>
+    <string name="_01516790441">01516790441</string>
+    <string name="example_gmail_com">example@gmail.com</string>
+    <string name="profile">Profile</string>
+    <string name="member">Member</string>
+    <string name="condition">Condition</string>
+    <string name="contact">Contact</string>
+    <string name="developer">Developer</string>
+    <string name="debit">Debit</string>
+    <string name="credit">Credit</string>
+    <string name="contact_informatiom">Contact Informatiom</string>
+    <string name="dreambuilders_gmail_com">dreambuilders@gmail.com</string>
+    <string name="password">Password</string>
+    <string name="notification">Notification</string>
+    <string name="balance_informatiom">Balance Informatiom</string>
+    <string name="waiting">waiting.....</string>
+    <string name="last_transaction">Last Transaction</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="adjust">Adjust</string>
+    <string name="payment">Payment</string>
+    <string name="notice">Notice</string>
+    <string name="picture">Picture</string>
+    <string name="clear">Clear</string>
+    <string name="old_balance">Old Balance</string>
+    <string name="new_total">New Total</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="emonrait_gmail_com">emonrait@gmail.com</string>
+    <string name="do_you_want_to_close_the_application">Do you Want to Close the Application?</string>
+    <string name="update_information">Update Information</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="email_id">Email ID</string>
+    <string name="enter_your_email_id">Enter Your Email ID</string>
+    <string name="send_password">send password</string>
+    <string name="loging_please_wait">Loging...Please Wait</string>
+    <string name="log_out_title_english">Logout</string>
+    <string name="log_out_ok_english">Ok</string>
+    <string name="log_out_cancel_english">Cancel</string>
+
+    <string name="enter_date">Enter Date</string>
+    <string name="statement_search">Statement Search</string>
+    <string name="enter_invoice_no">Enter Invoice No</string>
+    <string name="txn_list">TXN List</string>
+    <string name="present_addres">Present Addres</string>
+    <string name="enter_email_id">Enter email id</string>
+    <string name="_1_your_january_month_payment_2000_tk_is_completed">1. Your January Month Payment 2000 Tk is Completed.</string>
+
+
 </resources>
