@@ -72,7 +72,7 @@ class Welcome : AppCompatActivity(), NavigationView.OnNavigationItemSelectedList
 
        // hideKeyboard()
 
-        navigationView.itemIconTintList = null;
+        navigationView.itemIconTintList = null
 
 
 
@@ -97,7 +97,7 @@ class Welcome : AppCompatActivity(), NavigationView.OnNavigationItemSelectedList
         val bottomNavigationView: BottomNavigationView = findViewById(R.id.nav_view)
         setupActionBarWithNavController(navController, appBarConfiguration)
         bottomNavigationView.setupWithNavController(navController)
-        bottomNavigationView.itemIconTintList = null;
+        bottomNavigationView.itemIconTintList = null
         bottomNavigationView.setOnNavigationItemSelectedListener(this)
 
         globalVariable = this.applicationContext as GlobalVariable

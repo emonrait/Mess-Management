@@ -3,6 +3,8 @@
     package="com.emon.raihan.messmanagement">
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:name=".util.GlobalVariable"
         android:allowBackup="true"
